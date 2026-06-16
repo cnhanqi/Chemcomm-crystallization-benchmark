@@ -69,7 +69,6 @@ The data supporting this article are derived from publicly available crystallogr
 
 ## Suggested Citation
 
-After archiving the GitHub release with Zenodo, cite the archive DOI in the manuscript data availability statement and, if required by the journal, in the reference list.
-
+Please cite the archived release DOI in the manuscript data availability statement and, if required by the journal, in the reference list: https://doi.org/10.5281/zenodo.20711461.
 
 
