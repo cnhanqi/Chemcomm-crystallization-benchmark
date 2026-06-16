@@ -1,8 +1,8 @@
-﻿# Hank ChemComm Data and Code Release
+# Hank ChemComm Curated Minimal Release
 
-This repository contains the curated data tables, figure source data, machine-learning outputs and Python scripts supporting the ChemComm manuscript on a chemical species-resolved benchmark for protein crystallization conditions and structure-observed non-polymer species.
+This repository contains a reduced public package of summary data tables, figure source data, selected machine-learning outputs and representative Python scripts supporting the ChemComm manuscript on a chemical species-resolved benchmark for protein crystallization conditions and structure-observed non-polymer species.
 
-The release is intentionally curated. It does not contain manuscript drafts, reviewer comments, local agent files, private working notes, cache directories or historical exploratory outputs that are not required to support the reported results.
+The release is intentionally reduced. It does not contain manuscript drafts, reviewer comments, local agent files, private working notes, cache directories, full row-level working benchmark tables, full model-input matrices, exhaustive species inventories, editable vector artwork or one-command orchestration scripts that are not required to inspect the reported results.
 
 ## Data Source
 
@@ -14,21 +14,22 @@ No new crystallographic structures were determined in this study. The processed 
 
 ## Release Contents
 
-- `data/benchmark_tables/`: processed PDB-derived benchmark tables linking crystallization-condition chemistry, modeled non-polymer species and structural outputs.
-- `data/ml/`: model input tables used for species-resolved and protein-specific machine-learning analyses.
+- `data/benchmark_tables/`: summary-level PDB-derived benchmark tables linking crystallization-condition chemistry, modeled non-polymer species and structural outputs.
+- `data/ml/`: schema-level metadata for the species-resolved model input table.
 - `results/figure_assets/`: source CSV files used to generate manuscript figures.
-- `results/ml/`: model comparison, feature-importance, out-of-fold prediction and screening-guide outputs used in the manuscript and supporting information.
-- `results/figures/`: final figure files included for traceability.
-- `scripts/`: selected scripts used to build benchmark layers, run ML analyses and generate final figures.
+- `results/ml/`: summary model-comparison and feature-contribution outputs used in the manuscript and supporting information.
+- `results/figures/`: final PNG figure files included for traceability.
+- `scripts/`: representative scripts used to summarize benchmark layers and generate final figures.
 - `docs/benchmark_variable_definitions_v1.md`: variable definitions and interpretation notes.
 
 ## Key Tables
 
-- `data/benchmark_tables/master_benchmark_table_v1.csv`: integrated benchmark table.
-- `data/benchmark_tables/master_benchmark_table_v1_summary.md`: row counts and summary.
+- `data/benchmark_tables/master_benchmark_table_v1_summary.md`: row counts and benchmark summary.
 - `data/benchmark_tables/master_benchmark_labels_v1.md`: benchmark labels and task definitions.
-- `data/ml/species_aware_screening_ml_v2.csv`: species-resolved ML input table.
-- `data/ml/per_protein_species_retention_v1/model_input_table.csv`: protein-specific ML input table.
+- `data/benchmark_tables/pdb_core_model_proteins_species_retention_summary_v2.csv`: summary structure-observed rates by species.
+- `data/benchmark_tables/pdb_core_model_proteins_species_outcome_summary_v3.csv`: summary structural-outcome table.
+- `data/benchmark_tables/pdb_core_model_proteins_top_species_by_protein_v2.csv`: summary protein-specific species ranking table.
+- `results/figure_assets/`: main-figure and SI source tables at figure-summary level.
 
 ## Reproducibility
 
@@ -46,16 +47,11 @@ python -m pip install -r requirements.txt
 
 The scripts were developed with Python 3.11. Paths inside some scripts may need to be adjusted from the original local workspace path to the cloned repository path before rerunning.
 
-## Main Analysis Scripts
+This reduced public package is intended for summary-level traceability of the manuscript figures and reported comparisons. It is not a one-command full rerun package.
 
-- `scripts/build_expanded_species_inventory.py`
+## Included Scripts
+
 - `scripts/build_species_analysis_v2.py`
-- `scripts/build_species_aware_ml_table_v2.py`
-- `scripts/build_species_downstream_assets_v3.py`
-- `scripts/run_species_aware_ml_baselines_v2.py`
-- `scripts/run_species_aware_ml_rigorous_v3.py`
-- `scripts/run_per_protein_species_retention_fig4_v1.py`
-- `scripts/run_figure4_ml_all_panels_v3.py`
 - `scripts/make_figure1_benchmark_architecture_v3.py`
 - `scripts/make_figure2_condition_landscape_v5.py`
 - `scripts/make_figure3_ml_bcde_row_v1.py`
@@ -65,10 +61,8 @@ The scripts were developed with Python 3.11. Paths inside some scripts may need 
 
 Use the final DOI and GitHub URLs after release:
 
-The data supporting this article are derived from publicly available crystallographic records in the Protein Data Bank (PDB; https://www.rcsb.org/) and the associated PDBx/mmCIF metadata. The PDB accession codes used in the analysis are listed in the supporting data tables. Processed benchmark tables, figure source data, machine-learning input tables, model-evaluation outputs and the Python scripts used to generate the analyses and figures are available at Chemcomm-crystallization-benchmark at https://github.com/cnhanqi/Chemcomm-crystallization-benchmark, with the archived version of record available at https://doi.org/10.5281/zenodo.20711461. The version of the code used for this study is v1.0.2. Supporting data for the figures and tables are also included in the Supplementary Information. No new crystallographic structures were determined in this study.
+The data supporting this article are derived from publicly available crystallographic records in the Protein Data Bank (PDB; https://www.rcsb.org/) and the associated PDBx/mmCIF metadata. The PDB accession codes used in the analysis are listed in the supporting data tables and Supplementary Information. Curated summary benchmark tables, figure source data, summary model-evaluation outputs and selected Python scripts used to generate the analyses and figures are available at Chemcomm-crystallization-benchmark at https://github.com/cnhanqi/Chemcomm-crystallization-benchmark, with the archived version of record available at https://doi.org/10.5281/zenodo.20711461. The version of the code used for this study is v1.0.2. Supporting data for the figures and tables are also included in the Supplementary Information. No new crystallographic structures were determined in this study.
 
 ## Suggested Citation
 
 Please cite the archived release DOI in the manuscript data availability statement and, if required by the journal, in the reference list: https://doi.org/10.5281/zenodo.20711461.
-
-

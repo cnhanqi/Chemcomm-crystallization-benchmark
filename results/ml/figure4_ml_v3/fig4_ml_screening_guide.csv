@@ -1,6 +1,0 @@
-protein,top_ml_prioritized_species,dominant_ml_chemical_class,condition_context_note,confidence_level,caution_note
-lysozyme,"nitrate, ethylene glycol, chloride",Anions + Small neutral additives,pH/method secondary,high,first-pass ML-guided prioritization only; not crystallization-success prediction
-ribonuclease,"sulfate, glycerol, magnesium",Anions + Small neutral additives,iodide low-support,moderate,first-pass ML-guided prioritization only; not crystallization-success prediction
-trypsin,"calcium, glycerol, sulfate",Metal/cations + Small neutral additives,Ca signal,high,first-pass ML-guided prioritization only; not crystallization-success prediction
-insulin,"zinc, phenol, sulfate",Metal/cations + Organic ligands,Zn/phenol signal,moderate,first-pass ML-guided prioritization only; not crystallization-success prediction
-proteinase k,"sulfate, calcium, nitrate",Anions + Metal/cations,support caution,cautious,first-pass ML-guided prioritization only; not crystallization-success prediction
