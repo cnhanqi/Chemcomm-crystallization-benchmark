@@ -1,5 +1,5 @@
 ﻿#!/usr/bin/env python3
-"""Build v2 species-level analysis tables for the Wallis benchmark."""
+"""Build v2 species-level analysis tables for the Hank benchmark."""
 
 from __future__ import annotations
 
@@ -194,4 +194,5 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
 

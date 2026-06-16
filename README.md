@@ -1,4 +1,4 @@
-﻿# Wallis ChemComm Data and Code Release
+﻿# Hank ChemComm Data and Code Release
 
 This repository contains the curated data tables, figure source data, machine-learning outputs and Python scripts supporting the ChemComm manuscript on a chemical species-resolved benchmark for protein crystallization conditions and structure-observed non-polymer species.
 
@@ -70,5 +70,6 @@ The data supporting this article are derived from publicly available crystallogr
 ## Suggested Citation
 
 After archiving the GitHub release with Zenodo, cite the archive DOI in the manuscript data availability statement and, if required by the journal, in the reference list.
+
 
 

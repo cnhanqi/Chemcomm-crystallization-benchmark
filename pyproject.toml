@@ -1,9 +1,9 @@
-[build-system]
+﻿[build-system]
 requires = ["hatchling>=1.25"]
 build-backend = "hatchling.build"
 
 [project]
-name = "wallis-crystallization-benchmark"
+name = "hank-crystallization-benchmark"
 version = "0.1.0"
 description = "Workspace scaffold for solvent- and ion-aware protein crystallization review and benchmark development."
 readme = "README.md"
@@ -24,4 +24,5 @@ dependencies = [
 ]
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/wallis"]
+packages = ["src/hank"]
+

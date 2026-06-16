@@ -13,8 +13,8 @@ SRC = ROOT / "src"
 if str(SRC) not in sys.path:
     sys.path.insert(0, str(SRC))
 
-from wallis.ml.datasets import get_species_screening_features, load_ml_table
-from wallis.ml.evaluate import build_preprocessor
+from hank.ml.datasets import get_species_screening_features, load_ml_table
+from hank.ml.evaluate import build_preprocessor
 
 DATA = ROOT / "data" / "ml" / "species_aware_screening_ml_v2.csv"
 OUT_DIR = ROOT / "results" / "ml" / "species_aware_v2"
@@ -138,4 +138,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 

@@ -1,5 +1,5 @@
 ﻿#!/usr/bin/env python3
-"""Build an expanded solvent/ion/molecule inventory for the Wallis benchmark.
+"""Build an expanded solvent/ion/molecule inventory for the Hank benchmark.
 
 This pass extends the earlier additive-centric tables by:
 1. extracting a broader condition-side species inventory from condition text segments
@@ -406,4 +406,5 @@ def main() -> int:
 
 if __name__ == "__main__":
     raise SystemExit(main())
+
 

@@ -1,6 +1,6 @@
 ﻿# Benchmark Variable Definitions v1
 
-This note defines the most important variables used in the Wallis benchmark and manuscript drafts.
+This note defines the most important variables used in the Hank benchmark and manuscript drafts.
 
 ## Why this note matters
 
@@ -105,7 +105,7 @@ Does it include water?
 - but it is broader than “water only”, because it reflects solvent-accessible or solvent-occupied crystal volume rather than a strict explicit-water inventory
 - therefore, in this benchmark it should be read as **unit-cell solvent fraction**, not as a count of explicit bound waters
 
-Practical Wallis interpretation:
+Practical Hank interpretation:
 this is a bulk crystal-packing/solvation output variable that is highly relevant to a `solvent + ion` framing.
 
 ### `matthews_density`
@@ -163,7 +163,7 @@ The PDB/mmCIF item descriptions behind the two most important output variables a
 - `_exptl_crystal.density_percent_sol`
 - `_exptl_crystal.density_Matthews`
 
-For the Wallis manuscript, the safest wording is:
+For the Hank manuscript, the safest wording is:
 
 - `solvent_content_percent` = crystallographic percent solvent of the crystal cell, not explicit water count
 - `matthews_density` = Matthews coefficient, a packing-related volume-per-mass metric
@@ -172,3 +172,4 @@ For the Wallis manuscript, the safest wording is:
 
 - wwPDB PDBx/mmCIF dictionary for percent solvent: https://mmcif.wwpdb.org/dictionaries/mmcif_pdbx_v50.dic/Items/_exptl_crystal.density_percent_sol.html
 - wwPDB PDBx/mmCIF dictionary for Matthews coefficient: https://mmcif.wwpdb.org/dictionaries/mmcif_pdbx_v50.dic/Items/_exptl_crystal.density_Matthews.html
+

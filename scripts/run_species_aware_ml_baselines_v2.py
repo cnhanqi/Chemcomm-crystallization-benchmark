@@ -13,9 +13,9 @@ import sys
 if str(SRC) not in sys.path:
     sys.path.insert(0, str(SRC))
 
-from wallis.ml.datasets import get_species_screening_features, load_ml_table
-from wallis.ml.evaluate import evaluate_classifier, evaluate_regressor
-from wallis.ml.explain import permutation_importance_table
+from hank.ml.datasets import get_species_screening_features, load_ml_table
+from hank.ml.evaluate import evaluate_classifier, evaluate_regressor
+from hank.ml.explain import permutation_importance_table
 DATA = ROOT / "data" / "ml" / "species_aware_screening_ml_v2.csv"
 OUT_DIR = ROOT / "results" / "ml" / "species_aware_v2"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -258,4 +258,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
 

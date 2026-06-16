@@ -1,1 +1,0 @@
-"""Wallis project package placeholder."""

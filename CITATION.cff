@@ -1,6 +1,6 @@
 ﻿cff-version: 1.2.0
 message: "If you use this dataset or code, please cite the archived release."
-title: "Wallis ChemComm protein crystallization condition chemistry benchmark data and code"
+title: "Hank ChemComm protein crystallization condition chemistry benchmark data and code"
 authors:
   - family-names: "Han"
     given-names: "Hank"
@@ -12,5 +12,6 @@ repository-code: "https://github.com/cnhanqi/Chemcomm-crystallization-benchmark"
 doi: "10.xxxx/zenodo.xxxxxxx"
 license: "MIT"
 abstract: "Curated data tables, figure source data, machine-learning outputs and Python scripts supporting a chemical species-resolved protein crystallization benchmark derived from public Protein Data Bank records."
+
 
 

@@ -18,7 +18,7 @@ SRC = ROOT / "src"
 if str(SRC) not in sys.path:
     sys.path.insert(0, str(SRC))
 
-from wallis.figures.style import PALETTE, PROTEIN_COLORS, PROTEIN_LABELS, PROTEIN_ORDER, STATE_COLORS  # noqa: E402
+from hank.figures.style import PALETTE, PROTEIN_COLORS, PROTEIN_LABELS, PROTEIN_ORDER, STATE_COLORS  # noqa: E402
 
 
 DATA = ROOT / "data" / "benchmark_tables"
@@ -259,4 +259,5 @@ def make_figure() -> None:
 
 if __name__ == "__main__":
     make_figure()
+
 

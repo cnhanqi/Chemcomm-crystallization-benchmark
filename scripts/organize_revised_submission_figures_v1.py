@@ -19,7 +19,7 @@ SRC = ROOT / "src"
 if str(SRC) not in sys.path:
     sys.path.insert(0, str(SRC))
 
-from wallis.figures.style import PALETTE, PROTEIN_LABELS, PROTEIN_ORDER  # noqa: E402
+from hank.figures.style import PALETTE, PROTEIN_LABELS, PROTEIN_ORDER  # noqa: E402
 
 
 DATA = ROOT / "data" / "ml" / "species_aware_screening_ml_v2.csv"
@@ -484,4 +484,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
 

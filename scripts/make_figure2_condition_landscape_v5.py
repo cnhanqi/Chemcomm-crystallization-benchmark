@@ -17,7 +17,7 @@ SRC = ROOT / "src"
 if str(SRC) not in sys.path:
     sys.path.insert(0, str(SRC))
 
-from wallis.figures.style import PROTEIN_LABELS
+from hank.figures.style import PROTEIN_LABELS
 
 DATA = ROOT / "data" / "benchmark_tables"
 ML_DATA = ROOT / "data" / "ml" / "species_aware_screening_ml_v2.csv"
@@ -458,4 +458,5 @@ def make_figure() -> Path:
 
 if __name__ == "__main__":
     make_figure()
+
 
