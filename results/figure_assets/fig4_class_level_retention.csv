@@ -1,0 +1,27 @@
+protein,species_class,n_condition,n_retained,raw_retention_efficiency,P_shrink,support_flag
+insulin,Anions,388,40,0.10309278350515463,0.1038621271363932,robust
+insulin,Metal/cations,445,98,0.2202247191011236,0.21832335516546042,robust
+insulin,Neutral solvents/polyols,160,7,0.04375,0.04904192117814409,robust
+insulin,PEG/polymer,115,0,0.0,0.01069701280227596,robust
+insulin,Organic ligands/additives,298,43,0.14429530201342283,0.1439517097411834,robust
+lysozyme,Anions,1772,537,0.3030474040632054,0.3031573454076843,robust
+lysozyme,Metal/cations,1644,775,0.47141119221411193,0.47051172280320036,robust
+lysozyme,Neutral solvents/polyols,315,116,0.3682539682539683,0.3668504292815183,robust
+lysozyme,PEG/polymer,423,0,0.0,0.007451245996520666,robust
+lysozyme,Organic ligands/additives,269,0,0.0,0.01156412013080089,robust
+lysozyme,IL/DES,3,0,0.0,0.24818380896103448,low_support
+proteinase k,Anions,179,104,0.5810055865921788,0.5654443830231558,robust
+proteinase k,Metal/cations,243,61,0.25102880658436216,0.252446594432318,robust
+proteinase k,Neutral solvents/polyols,10,8,0.8,0.5434494195688225,moderate
+proteinase k,PEG/polymer,7,0,0.0,0.1687640230221442,low_support
+proteinase k,Organic ligands/additives,164,0,0.0,0.016488439030899145,robust
+ribonuclease,Anions,869,268,0.3084004602991945,0.3067366752035159,robust
+ribonuclease,Metal/cations,1131,167,0.14765694076038904,0.14778399430665246,robust
+ribonuclease,Neutral solvents/polyols,237,86,0.3628691983122363,0.3547430668173702,robust
+ribonuclease,PEG/polymer,486,0,0.0,0.0032692288384888004,robust
+ribonuclease,Organic ligands/additives,490,0,0.0,0.00324307500778089,robust
+trypsin,Anions,510,208,0.40784313725490196,0.4036040627616586,robust
+trypsin,Metal/cations,764,162,0.21204188481675393,0.21172365973651483,robust
+trypsin,Neutral solvents/polyols,53,26,0.49056603773584906,0.4424462323184519,robust
+trypsin,PEG/polymer,299,0,0.0,0.006065089437095374,robust
+trypsin,Organic ligands/additives,487,0,0.0,0.003770850374371168,robust

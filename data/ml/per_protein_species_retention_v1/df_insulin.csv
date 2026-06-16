@@ -1,0 +1,1407 @@
+pdb_id,crystal_id,species_name,species_class,concentration_bin,pH_bin,temperature_bin,method_family,observed_in_structure_label
+3KR3,1,bis-tris,Organic ligands/additives,missing,acidic,ambient,vapor diffusion - unspecified,0
+3U4N,1,bis-tris,Organic ligands/additives,mid,missing,missing,missing,0
+3UTQ,1,bis-tris,Organic ligands/additives,mid,missing,missing,missing,0
+3UTS,1,bis-tris,Organic ligands/additives,mid,missing,missing,missing,0
+3UTT,1,bis-tris,Organic ligands/additives,mid,missing,missing,missing,0
+4WDI,1,bis-tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+4Y1A,1,bis-tris,Organic ligands/additives,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+6CME,1,bis-tris,Organic ligands/additives,very high,missing,ambient,vapor diffusion - sitting drop,0
+6FQR,1,bis-tris,Organic ligands/additives,mid,missing,missing,missing,0
+6GV0,1,bis-tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - unspecified,0
+8PYI,1,bis-tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - unspecified,0
+8TKT,1,bis-tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+8TKU,1,bis-tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+1IMX,1,cacodylate,Organic ligands/additives,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3KR3,1,cacodylate,Organic ligands/additives,missing,acidic,ambient,vapor diffusion - unspecified,0
+4IBM,1,cacodylate,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - unspecified,0
+4IOF,1,cacodylate,Organic ligands/additives,mid,missing,missing,missing,0
+4M1C,1,cacodylate,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+5WOB,1,cacodylate,Organic ligands/additives,mid,missing,missing,missing,0
+6GQE,1,cacodylate,Organic ligands/additives,low-mid,neutral,ambient,vapor diffusion - sitting drop,0
+6XCO,1,cacodylate,Organic ligands/additives,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7MJ6,1,cacodylate,Organic ligands/additives,mid,missing,missing,missing,0
+7MJ7,1,cacodylate,Organic ligands/additives,mid,missing,missing,missing,0
+7MJ8,1,cacodylate,Organic ligands/additives,mid,missing,missing,missing,0
+7YEX,1,cacodylate,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+8AYG,1,cacodylate,Organic ligands/additives,missing,mildly acidic,cold,vapor diffusion - hanging drop,0
+8TK9,1,cacodylate,Organic ligands/additives,mid,missing,missing,missing,0
+1G1F,1,hepes,Organic ligands/additives,missing,mildly basic,warm,vapor diffusion - hanging drop,0
+1G1G,1,hepes,Organic ligands/additives,missing,neutral,warm,vapor diffusion - hanging drop,0
+1G1H,1,hepes,Organic ligands/additives,missing,mildly basic,warm,vapor diffusion - hanging drop,0
+1IGR,1,hepes,Organic ligands/additives,mid,mildly basic,missing,unspecified/other,0
+1K3A,1,hepes,Organic ligands/additives,missing,mildly basic,cold,vapor diffusion - hanging drop,0
+2G47,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+2G48,1,hepes,Organic ligands/additives,missing,missing,missing,missing,0
+2G49,1,hepes,Organic ligands/additives,missing,missing,missing,missing,0
+2G54,1,hepes,Organic ligands/additives,missing,missing,missing,missing,0
+2G56,1,hepes,Organic ligands/additives,missing,missing,missing,missing,0
+2JG4,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+2WBY,1,hepes,Organic ligands/additives,mid,neutral,missing,unspecified/other,0
+3BU3,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+3BU5,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+3BU6,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+3CWW,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+3E4A,1,hepes,Organic ligands/additives,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3E4Z,1,hepes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3H44,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+3LVP,1,hepes,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3N56,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+3N57,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+3OFI,1,hepes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3QZ2,1,hepes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3WS3,1,hepes,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+3ZU1,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+4AJZ,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+4DTT,1,hepes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+4DWK,1,hepes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+4GS8,1,hepes,Organic ligands/additives,mid,neutral,missing,vapor diffusion - hanging drop,0
+4GSC,1,hepes,Organic ligands/additives,mid,neutral,missing,vapor diffusion - hanging drop,0
+4GSF,1,hepes,Organic ligands/additives,mid,neutral,missing,vapor diffusion - hanging drop,0
+4IFH,1,hepes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+4LTE,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+4NXO,1,hepes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+4QIA,1,hepes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+4RAL,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+4RE9,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+4ZXB,1,hepes,Organic ligands/additives,high,neutral,ambient,vapor diffusion - hanging drop,0
+5BTS,1,hepes,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5CJO,1,hepes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+5EN9,1,hepes,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+5ENA,1,hepes,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+5HQI,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+5KQV,1,hepes,Organic ligands/additives,mid,missing,ambient,vapor diffusion - hanging drop,0
+5URT,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+5USP,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+5USV,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+5UU2,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+6BYZ,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+6EDS,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+6FEY,1,hepes,Organic ligands/additives,mid,missing,ambient,vapor diffusion - unspecified,0
+6MQ3,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+6NWV,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+6P4Z,1,hepes,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+6S34,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+6VEP,1,hepes,Organic ligands/additives,low-mid,missing,warm,vapor diffusion - hanging drop,0
+6VER,1,hepes,Organic ligands/additives,high,missing,warm,vapor diffusion - sitting drop,0
+6VES,1,hepes,Organic ligands/additives,high,missing,warm,vapor diffusion - sitting drop,0
+6VET,1,hepes,Organic ligands/additives,high,basic,warm,vapor diffusion - sitting drop,0
+6Z7W,1,hepes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - sitting drop,0
+7K1D,1,hepes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+7K1E,1,hepes,Organic ligands/additives,mid,missing,ambient,vapor diffusion - hanging drop,0
+7K1F,1,hepes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+7MJ9,1,hepes,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+7PPL,1,hepes,Organic ligands/additives,mid,mildly basic,cold,vapor diffusion - hanging drop,0
+7VKL,1,hepes,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+7Z50,1,hepes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - sitting drop,0
+8GSG,1,hepes,Organic ligands/additives,mid,mildly basic,cold,vapor diffusion - sitting drop,0
+8ONI,1,hepes,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+8PYJ,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+8PYK,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+8PYL,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+8PYM,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+8PYN,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+8WU0,1,hepes,Organic ligands/additives,mid,missing,missing,missing,0
+3MMK,1,mes,Organic ligands/additives,mid,missing,missing,missing,0
+3O23,1,mes,Organic ligands/additives,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4GBC,1,mes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+4GBI,1,mes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+4GBN,1,mes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+4XC4,1,mes,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+4Y19,1,mes,Organic ligands/additives,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4ZXB,1,mes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+5CO6,1,mes,Organic ligands/additives,high,missing,missing,missing,0
+5CO9,1,mes,Organic ligands/additives,high,missing,missing,missing,0
+5HZN,1,mes,Organic ligands/additives,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+5JYQ,1,mes,Organic ligands/additives,very high,missing,warm,vapor diffusion - sitting drop,0
+5WRL,1,mes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+5WRM,1,mes,Organic ligands/additives,mid,missing,ambient,vapor diffusion - hanging drop,0
+6ZI8,1,mes,Organic ligands/additives,low-mid,missing,missing,missing,0
+8HSK,1,mes,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - sitting drop,0
+1GAG,1,tris,Organic ligands/additives,missing,mildly basic,cold,vapor diffusion - hanging drop,0
+1GZR,1,tris,Organic ligands/additives,mid,mildly basic,missing,vapor diffusion - hanging drop,0
+1GZY,1,tris,Organic ligands/additives,mid,mildly basic,missing,vapor diffusion - hanging drop,0
+1GZZ,1,tris,Organic ligands/additives,mid,mildly basic,missing,vapor diffusion - hanging drop,0
+1H02,1,tris,Organic ligands/additives,mid,mildly basic,missing,vapor diffusion - hanging drop,0
+1I44,1,tris,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+1IR3,1,tris,Organic ligands/additives,mid,mildly basic,missing,unspecified/other,0
+1J73,1,tris,Organic ligands/additives,missing,missing,missing,missing,0
+1JCA,1,tris,Organic ligands/additives,missing,missing,missing,missing,0
+1M7N,1,tris,Organic ligands/additives,mid,basic,cold,vapor diffusion - sitting drop,0
+1P4O,1,tris,Organic ligands/additives,mid,basic,cold,vapor diffusion - sitting drop,0
+1Q4V,1,tris,Organic ligands/additives,missing,missing,missing,missing,0
+1RWE,1,tris,Organic ligands/additives,missing,missing,missing,missing,0
+1UZ9,1,tris,Organic ligands/additives,mid,mildly basic,missing,unspecified/other,0
+1W8P,1,tris,Organic ligands/additives,missing,mildly basic,missing,unspecified/other,0
+1WDZ,1,tris,Organic ligands/additives,low-mid,basic,ambient,vapor diffusion - hanging drop,0
+1WQJ,1,tris,Organic ligands/additives,low-mid,mildly basic,cold,vapor diffusion - sitting drop,0
+1XDA,1,tris,Organic ligands/additives,missing,mildly basic,missing,unspecified/other,0
+1XW7,1,tris,Organic ligands/additives,missing,missing,missing,missing,0
+2B4S,1,tris,Organic ligands/additives,mid,mildly basic,cold,vapor diffusion - hanging drop,0
+2DSP,1,tris,Organic ligands/additives,low-mid,neutral,ambient,vapor diffusion - sitting drop,0
+2RGT,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+2V5P,1,tris,Organic ligands/additives,mid,basic,missing,unspecified/other,0
+2WRV,1,tris,Organic ligands/additives,mid,mildly basic,missing,unspecified/other,0
+2WS0,1,tris,Organic ligands/additives,mid,mildly basic,missing,unspecified/other,0
+2WS6,1,tris,Organic ligands/additives,missing,mildly basic,missing,unspecified/other,0
+2WS7,1,tris,Organic ligands/additives,mid,mildly basic,missing,unspecified/other,0
+2ZM3,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+3BXQ,1,tris,Organic ligands/additives,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3F5P,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+3FQ9,1,tris,Organic ligands/additives,low-mid,missing,missing,missing,0
+3GKY,1,tris,Organic ligands/additives,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3JSD,1,tris,Organic ligands/additives,low-mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3KQ6,1,tris,Organic ligands/additives,low-mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3KR3,1,tris,Organic ligands/additives,missing,acidic,ambient,vapor diffusion - unspecified,0
+3KRM,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+3U4N,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+3UTQ,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+3UTS,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+3UTT,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+3V19,1,tris,Organic ligands/additives,low-mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3V1G,1,tris,Organic ligands/additives,low-mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3ZQR,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+3ZS2,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+3ZXB,1,tris,Organic ligands/additives,mid,mildly basic,missing,unspecified/other,0
+4CXL,1,tris,Organic ligands/additives,mid,mildly basic,missing,unspecified/other,0
+4CXN,1,tris,Organic ligands/additives,mid,mildly basic,missing,unspecified/other,0
+4GBK,1,tris,Organic ligands/additives,mid,basic,ambient,vapor diffusion - hanging drop,0
+4GBL,1,tris,Organic ligands/additives,mid,basic,ambient,vapor diffusion - hanging drop,0
+4IYD,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+4IYF,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+4JCJ,1,tris,Organic ligands/additives,mid,basic,ambient,vapor diffusion - hanging drop,0
+4P65,1,tris,Organic ligands/additives,missing,missing,cold,vapor diffusion - hanging drop,0
+4WDI,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+4XLV,1,tris,Organic ligands/additives,mid,mildly basic,cold,vapor diffusion - hanging drop,0
+4Z76,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - unspecified,0
+4Z77,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - unspecified,0
+5BQQ,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+5E1S,1,tris,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+5HHW,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+5HPR,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5HPU,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5HRQ,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5JHQ,1,tris,Organic ligands/additives,high,missing,missing,missing,0
+5JYQ,1,tris,Organic ligands/additives,very high,missing,warm,vapor diffusion - sitting drop,0
+5MAM,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+5MT3,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+5MT9,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+5T7R,1,tris,Organic ligands/additives,mid,basic,warm,vapor diffusion - hanging drop,0
+5TQ1,1,tris,Organic ligands/additives,mid,basic,cold,vapor diffusion - hanging drop,0
+5UDP,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+5UOZ,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - unspecified,0
+5UQA,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+5URU,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5USS,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5UU3,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5UU4,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5WDM,1,tris,Organic ligands/additives,mid,basic,ambient,vapor diffusion - sitting drop,0
+6CK2,1,tris,Organic ligands/additives,missing,missing,missing,missing,0
+6FF3,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - unspecified,0
+6FQR,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+6H3M,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+6ROL,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+6S4I,1,tris,Organic ligands/additives,mid,basic,warm,vapor diffusion - sitting drop,0
+6Z7Y,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+7JP3,1,tris,Organic ligands/additives,low-mid,missing,ambient,vapor diffusion - hanging drop,0
+7WW3,1,tris,Organic ligands/additives,mid,basic,ambient,vapor diffusion - hanging drop,0
+7Z5L,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+7Z5Q,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+8HGZ,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - hanging drop,0
+8IPZ,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+8OKY,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+8ONK,1,tris,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+8ONR,1,tris,Organic ligands/additives,mid,missing,missing,missing,0
+8PI4,1,tris,Organic ligands/additives,mid,basic,ambient,vapor diffusion - sitting drop,0
+8PYI,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - unspecified,0
+8TKT,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+8TKU,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+8Z4B,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+9CIV,1,tris,Organic ligands/additives,mid,missing,ambient,microbatch,0
+9LVC,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+9LVD,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+9LVE,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+9LVX,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+9LVY,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+9UTJ,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+9UTK,1,tris,Organic ligands/additives,mid,missing,ambient,vapor diffusion - sitting drop,0
+3D94,1,imidazole,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3W11,1,imidazole,Organic ligands/additives,mid,missing,missing,missing,0
+3W12,1,imidazole,Organic ligands/additives,mid,missing,missing,missing,0
+3W13,1,imidazole,Organic ligands/additives,mid,missing,missing,missing,0
+4AJX,1,imidazole,Organic ligands/additives,high,missing,missing,missing,0
+4NIB,1,imidazole,Organic ligands/additives,mid,missing,missing,missing,0
+4OGA,1,imidazole,Organic ligands/additives,mid,missing,missing,missing,0
+5U8Q,1,imidazole,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+5U8R,1,imidazole,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+6VES,1,imidazole,Organic ligands/additives,high,missing,warm,vapor diffusion - sitting drop,0
+8DWN,1,imidazole,Organic ligands/additives,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+8HSF,1,imidazole,Organic ligands/additives,high,missing,missing,missing,0
+8IVD,1,imidazole,Organic ligands/additives,mid,neutral,ambient,vapor diffusion - hanging drop,0
+1IMX,1,chaps,Organic ligands/additives,missing,neutral,ambient,vapor diffusion - hanging drop,0
+1BEN,1,acetate,Anions,trace-low,mildly acidic,missing,slow cooling,0
+1EV3,1,acetate,Anions,mid,basic,ambient,slow cooling,0
+1EV6,1,acetate,Anions,mid,neutral,ambient,slow cooling,0
+1EVR,1,acetate,Anions,mid,neutral,ambient,slow cooling,0
+1G7A,1,acetate,Anions,trace-low,mildly acidic,ambient,slow cooling,0
+1G7B,1,acetate,Anions,trace-low,mildly acidic,ambient,slow cooling,0
+1HTV,1,acetate,Anions,missing,neutral,ambient,vapor diffusion - hanging drop,0
+1JK8,1,acetate,Anions,missing,acidic,ambient,vapor diffusion - hanging drop,0
+1M5A,1,acetate,Anions,missing,mildly acidic,warm,slow cooling,0
+1MSO,1,acetate,Anions,trace-low,mildly acidic,ambient,slow cooling,0
+1OS3,1,acetate,Anions,missing,mildly acidic,ambient,slow cooling,0
+1OS4,1,acetate,Anions,missing,mildly acidic,ambient,slow cooling,0
+1QIY,1,acetate,Anions,very high,neutral,missing,batch,0
+1QIZ,1,acetate,Anions,very high,neutral,missing,batch,0
+1QJ0,1,acetate,Anions,very high,neutral,missing,batch,0
+1TRZ,1,acetate,Anions,mid,mildly acidic,missing,unspecified/other,0
+1UZ9,1,acetate,Anions,trace-low,mildly basic,missing,unspecified/other,0
+1W8P,1,acetate,Anions,missing,mildly basic,missing,unspecified/other,0
+1WDZ,1,acetate,Anions,mid,basic,ambient,vapor diffusion - hanging drop,0
+1XDA,1,acetate,Anions,missing,mildly basic,missing,unspecified/other,0
+1ZEG,1,acetate,Anions,very high,neutral,missing,batch,0
+1ZEH,1,acetate,Anions,very high,neutral,missing,batch,0
+1ZNJ,1,acetate,Anions,missing,neutral,missing,batch,0
+2A3G,1,acetate,Anions,missing,mildly acidic,ambient,slow cooling,0
+2DSQ,1,acetate,Anions,mid,neutral,ambient,vapor diffusion - sitting drop,0
+2WRV,1,acetate,Anions,trace-low,mildly basic,missing,unspecified/other,1
+2WRX,1,acetate,Anions,mid,acidic,missing,unspecified/other,0
+2WS0,1,acetate,Anions,mid,mildly basic,missing,unspecified/other,0
+2WS6,1,acetate,Anions,missing,mildly basic,missing,unspecified/other,0
+2WS7,1,acetate,Anions,trace-low,mildly basic,missing,unspecified/other,0
+3BXQ,1,acetate,Anions,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+3D94,1,acetate,Anions,mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3EXX,1,acetate,Anions,low-mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+3FHP,1,acetate,Anions,trace-low,mildly acidic,ambient,liquid diffusion,0
+3GKY,1,acetate,Anions,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+3JSD,1,acetate,Anions,missing,mildly basic,ambient,vapor diffusion - unspecified,0
+3KQ6,1,acetate,Anions,missing,mildly basic,ambient,vapor diffusion - unspecified,0
+3P2X,1,acetate,Anions,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+3P33,1,acetate,Anions,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+3P7L,1,acetate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3P7O,1,acetate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3QQU,1,acetate,Anions,mid,mildly basic,cold,vapor diffusion - hanging drop,0
+3ROV,1,acetate,Anions,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+3TT8,1,acetate,Anions,trace-low,mildly acidic,missing,vapor diffusion - hanging drop,0
+3TUV,1,acetate,Anions,mid,neutral,ambient,vapor diffusion - sitting drop,0
+3V19,1,acetate,Anions,missing,mildly basic,ambient,vapor diffusion - unspecified,0
+3V1G,1,acetate,Anions,missing,mildly basic,ambient,vapor diffusion - unspecified,0
+3ZXC,1,acetate,Anions,mid,acidic,missing,unspecified/other,1
+4E7T,1,acetate,Anions,trace-low,neutral,ambient,vapor diffusion - hanging drop,0
+4E7U,1,acetate,Anions,trace-low,mildly acidic,ambient,batch,0
+4E7V,1,acetate,Anions,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+4M4F,1,acetate,Anions,trace-low,neutral,ambient,vapor diffusion - hanging drop,0
+4M4H,1,acetate,Anions,trace-low,neutral,ambient,vapor diffusion - hanging drop,0
+4M4I,1,acetate,Anions,trace-low,neutral,ambient,vapor diffusion - hanging drop,0
+4M4J,1,acetate,Anions,trace-low,neutral,ambient,vapor diffusion - hanging drop,0
+4M4L,1,acetate,Anions,trace-low,neutral,ambient,vapor diffusion - hanging drop,0
+4M4M,1,acetate,Anions,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4P65,1,acetate,Anions,missing,missing,cold,vapor diffusion - hanging drop,0
+4RXW,1,acetate,Anions,trace-low,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4Z78,1,acetate,Anions,mid,missing,ambient,vapor diffusion - unspecified,0
+5E7W,1,acetate,Anions,mid,mildly acidic,ambient,batch,1
+5EMS,1,acetate,Anions,missing,missing,ambient,vapor diffusion - hanging drop,0
+5HPR,1,acetate,Anions,trace-low,mildly basic,ambient,vapor diffusion - sitting drop,0
+5HPU,1,acetate,Anions,low-mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5HRQ,1,acetate,Anions,low-mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5UDP,1,acetate,Anions,trace-low,mildly basic,ambient,vapor diffusion - hanging drop,0
+5UOZ,1,acetate,Anions,trace-low,mildly basic,ambient,vapor diffusion - unspecified,0
+5UQA,1,acetate,Anions,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+5URU,1,acetate,Anions,low-mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5USS,1,acetate,Anions,low-mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5UU3,1,acetate,Anions,low-mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5UU4,1,acetate,Anions,low-mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5WRK,1,acetate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,0
+6BNT,1,acetate,Anions,mid,missing,ambient,vapor diffusion - hanging drop,0
+6CME,1,acetate,Anions,very high,missing,ambient,vapor diffusion - sitting drop,0
+6GNQ,1,acetate,Anions,missing,mildly acidic,ambient,batch,0
+6GQE,1,acetate,Anions,low-mid,neutral,ambient,vapor diffusion - sitting drop,0
+6TC2,1,acetate,Anions,trace-low,mildly acidic,ambient,batch,0
+6TYH,1,acetate,Anions,missing,missing,ambient,vapor diffusion - sitting drop,0
+6VES,1,acetate,Anions,mid,missing,warm,vapor diffusion - sitting drop,0
+6XCO,1,acetate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7JP3,1,acetate,Anions,missing,missing,ambient,vapor diffusion - hanging drop,0
+7QAC,1,acetate,Anions,trace-low,basic,ambient,batch,0
+7QAC,2,acetate,Anions,trace-low,mildly basic,ambient,batch,0
+7QAC,3,acetate,Anions,trace-low,mildly basic,ambient,batch,0
+7QAC,4,acetate,Anions,trace-low,mildly basic,ambient,batch,0
+7QAC,5,acetate,Anions,trace-low,mildly basic,ambient,batch,0
+7QAC,6,acetate,Anions,trace-low,mildly basic,ambient,batch,0
+7VSJ,1,acetate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7YEW,1,acetate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7YEX,1,acetate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+7YEY,1,acetate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+8HGZ,1,acetate,Anions,mid,missing,ambient,vapor diffusion - hanging drop,0
+8IPZ,1,acetate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,0
+8PI4,1,acetate,Anions,mid,basic,ambient,vapor diffusion - sitting drop,0
+8PI5,1,acetate,Anions,missing,basic,ambient,vapor diffusion - sitting drop,0
+8RRP,1,acetate,Anions,mid,acidic,ambient,vapor diffusion - hanging drop,1
+9IBB,1,acetate,Anions,trace-low,mildly basic,ambient,batch,0
+9LVC,1,acetate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,0
+9LVD,1,acetate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,0
+9LVE,1,acetate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,0
+9LVX,1,acetate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,0
+9LVY,1,acetate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,0
+9QLD,1,acetate,Anions,trace-low,mildly basic,ambient,batch,1
+1IGR,1,ammonium,Metal/cations,very high,mildly basic,missing,unspecified/other,0
+2B4S,1,ammonium,Metal/cations,very high,mildly basic,cold,vapor diffusion - hanging drop,0
+2HR7,1,ammonium,Metal/cations,very high,basic,ambient,vapor diffusion - hanging drop,0
+2R34,1,ammonium,Metal/cations,missing,neutral,ambient,vapor diffusion - hanging drop,0
+2R36,1,ammonium,Metal/cations,missing,neutral,ambient,vapor diffusion - hanging drop,0
+2ZP6,1,ammonium,Metal/cations,high,mildly basic,ambient,vapor diffusion - hanging drop,0
+3ILG,1,ammonium,Metal/cations,high,neutral,ambient,vapor diffusion - hanging drop,0
+3INC,1,ammonium,Metal/cations,high,neutral,ambient,vapor diffusion - hanging drop,0
+3IR0,1,ammonium,Metal/cations,high,neutral,ambient,vapor diffusion - hanging drop,0
+3KRM,1,ammonium,Metal/cations,very high,missing,missing,missing,0
+3LVP,1,ammonium,Metal/cations,very high,mildly basic,ambient,vapor diffusion - hanging drop,0
+3P7L,1,ammonium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3P7O,1,ammonium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3TUV,1,ammonium,Metal/cations,mid,neutral,ambient,vapor diffusion - sitting drop,0
+3WS3,1,ammonium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+4GBK,1,ammonium,Metal/cations,very high,basic,ambient,vapor diffusion - hanging drop,0
+4GBL,1,ammonium,Metal/cations,very high,basic,ambient,vapor diffusion - hanging drop,0
+4UNG,1,ammonium,Metal/cations,low-mid,missing,missing,missing,0
+4XSS,1,ammonium,Metal/cations,very high,basic,ambient,vapor diffusion - hanging drop,0
+4XST,1,ammonium,Metal/cations,very high,missing,ambient,vapor diffusion - hanging drop,0
+4Y19,1,ammonium,Metal/cations,high,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4Y1A,1,ammonium,Metal/cations,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+5BOQ,1,ammonium,Metal/cations,mid,missing,missing,missing,0
+5BTS,1,ammonium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5HZN,1,ammonium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+5J3H,1,ammonium,Metal/cations,very high,missing,missing,missing,0
+5JHQ,1,ammonium,Metal/cations,high,missing,missing,missing,0
+5JYQ,1,ammonium,Metal/cations,very high,missing,warm,vapor diffusion - sitting drop,0
+5U1M,1,ammonium,Metal/cations,missing,missing,ambient,vapor diffusion - hanging drop,0
+5U8Q,1,ammonium,Metal/cations,high,neutral,ambient,vapor diffusion - hanging drop,0
+5U8R,1,ammonium,Metal/cations,high,neutral,ambient,vapor diffusion - hanging drop,0
+5UOE,1,ammonium,Metal/cations,low-mid,missing,missing,missing,0
+6CME,1,ammonium,Metal/cations,very high,missing,ambient,vapor diffusion - sitting drop,0
+6ROL,1,ammonium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+6S4I,1,ammonium,Metal/cations,very high,basic,warm,vapor diffusion - sitting drop,0
+6VEQ,1,ammonium,Metal/cations,high,missing,missing,missing,0
+7QHP,1,ammonium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+7VSJ,1,ammonium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7YEW,1,ammonium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7YEY,1,ammonium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7Z5L,1,ammonium,Metal/cations,high,mildly basic,ambient,vapor diffusion - hanging drop,0
+7Z5Q,1,ammonium,Metal/cations,high,mildly basic,ambient,vapor diffusion - hanging drop,0
+8HSK,1,ammonium,Metal/cations,mid,neutral,ambient,vapor diffusion - sitting drop,0
+8IVD,1,ammonium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+8PI6,1,ammonium,Metal/cations,missing,missing,missing,missing,0
+8TK9,1,ammonium,Metal/cations,very high,missing,missing,missing,0
+3D94,1,calcium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - unspecified,1
+3KR3,1,calcium,Metal/cations,mid,acidic,ambient,vapor diffusion - unspecified,0
+4Z76,1,calcium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - unspecified,0
+4Z77,1,calcium,Metal/cations,mid,missing,ambient,vapor diffusion - unspecified,0
+6BD1,1,calcium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+6BD2,1,calcium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+6BQT,1,calcium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+6VES,1,calcium,Metal/cations,mid,missing,warm,vapor diffusion - sitting drop,0
+6XCO,1,calcium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+8RRP,1,calcium,Metal/cations,mid,acidic,ambient,vapor diffusion - hanging drop,0
+9UTJ,1,calcium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,1
+9UTK,1,calcium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,1
+1BEN,1,chloride,Anions,high,mildly acidic,missing,slow cooling,1
+1EV3,1,chloride,Anions,missing,basic,ambient,slow cooling,1
+1K3A,1,chloride,Anions,missing,mildly basic,cold,vapor diffusion - hanging drop,0
+1TRZ,1,chloride,Anions,mid,mildly acidic,missing,unspecified/other,1
+1ZNJ,1,chloride,Anions,mid,neutral,missing,batch,1
+2R34,1,chloride,Anions,missing,neutral,ambient,vapor diffusion - hanging drop,1
+2R35,1,chloride,Anions,missing,neutral,ambient,vapor diffusion - hanging drop,0
+2R36,1,chloride,Anions,missing,neutral,ambient,vapor diffusion - hanging drop,1
+3ILG,1,chloride,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3INC,1,chloride,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3IR0,1,chloride,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3W7Y,1,chloride,Anions,missing,basic,ambient,vapor diffusion - hanging drop,0
+3W7Z,1,chloride,Anions,missing,basic,ambient,vapor diffusion - hanging drop,0
+3W80,1,chloride,Anions,missing,basic,ambient,vapor diffusion - hanging drop,0
+3ZXC,1,chloride,Anions,very high,acidic,missing,unspecified/other,0
+4JCJ,1,chloride,Anions,mid,basic,ambient,vapor diffusion - hanging drop,0
+4P65,1,chloride,Anions,missing,missing,cold,vapor diffusion - hanging drop,1
+4Z76,1,chloride,Anions,mid,mildly basic,ambient,vapor diffusion - unspecified,0
+4Z77,1,chloride,Anions,mid,missing,ambient,vapor diffusion - unspecified,0
+5AZZ,1,chloride,Anions,missing,mildly acidic,ambient,vapor diffusion - sitting drop,0
+5WDM,1,chloride,Anions,mid,basic,ambient,vapor diffusion - sitting drop,0
+6Z7Y,1,chloride,Anions,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+6Z7Z,1,chloride,Anions,mid,missing,ambient,vapor diffusion - sitting drop,0
+7MJ9,1,chloride,Anions,mid,missing,ambient,vapor diffusion - sitting drop,0
+7S4Y,1,chloride,Anions,trace-low,missing,ambient,batch,1
+7WW3,1,chloride,Anions,mid,basic,ambient,vapor diffusion - hanging drop,0
+8AYG,1,chloride,Anions,missing,mildly acidic,cold,vapor diffusion - hanging drop,0
+8RRP,1,chloride,Anions,mid,acidic,ambient,vapor diffusion - hanging drop,0
+1M5A,1,cobalt,Metal/cations,missing,mildly acidic,warm,slow cooling,1
+4RXW,1,cobalt,Metal/cations,trace-low,mildly acidic,ambient,vapor diffusion - hanging drop,1
+3IR0,1,copper,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,1
+4M4F,1,copper,Metal/cations,trace-low,neutral,ambient,vapor diffusion - hanging drop,1
+4M4H,1,copper,Metal/cations,trace-low,neutral,ambient,vapor diffusion - hanging drop,1
+4M4I,1,copper,Metal/cations,trace-low,neutral,ambient,vapor diffusion - hanging drop,1
+4M4J,1,copper,Metal/cations,trace-low,neutral,ambient,vapor diffusion - hanging drop,1
+4M4L,1,copper,Metal/cations,trace-low,neutral,ambient,vapor diffusion - hanging drop,1
+2ZP6,1,formate,Anions,high,mildly basic,ambient,vapor diffusion - hanging drop,0
+5WRK,1,formate,Anions,high,missing,ambient,vapor diffusion - sitting drop,0
+6BCR,1,formate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+6BCY,1,formate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+6GV0,1,formate,Anions,mid,missing,ambient,vapor diffusion - unspecified,1
+6VER,1,formate,Anions,high,missing,warm,vapor diffusion - sitting drop,0
+6VET,1,formate,Anions,high,basic,warm,vapor diffusion - sitting drop,0
+7NHU,1,formate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,0
+7RKD,1,formate,Anions,mid,missing,ambient,microbatch,0
+6QEY,1,iodide,Anions,mid,missing,missing,missing,0
+8TKU,1,iodide,Anions,mid,missing,ambient,vapor diffusion - sitting drop,0
+1P4O,1,lithium,Metal/cations,mid,basic,cold,vapor diffusion - sitting drop,0
+2DSQ,1,lithium,Metal/cations,mid,neutral,ambient,vapor diffusion - sitting drop,0
+2DSR,1,lithium,Metal/cations,high,mildly basic,ambient,vapor diffusion - sitting drop,0
+7VKL,1,lithium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+9CIV,1,lithium,Metal/cations,mid,missing,ambient,microbatch,0
+1G1F,1,magnesium,Metal/cations,missing,mildly basic,warm,vapor diffusion - hanging drop,0
+1G1G,1,magnesium,Metal/cations,missing,neutral,warm,vapor diffusion - hanging drop,0
+1G1H,1,magnesium,Metal/cations,missing,mildly basic,warm,vapor diffusion - hanging drop,0
+1JK8,1,magnesium,Metal/cations,missing,acidic,ambient,vapor diffusion - hanging drop,0
+1M7N,1,magnesium,Metal/cations,mid,basic,cold,vapor diffusion - sitting drop,0
+2R34,1,magnesium,Metal/cations,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3FQX,1,magnesium,Metal/cations,trace-low,missing,missing,missing,1
+3MMK,1,magnesium,Metal/cations,very high,missing,missing,missing,0
+4D2R,1,magnesium,Metal/cations,mid,missing,missing,missing,0
+4GBC,1,magnesium,Metal/cations,very high,neutral,ambient,vapor diffusion - hanging drop,0
+4GBI,1,magnesium,Metal/cations,very high,neutral,ambient,vapor diffusion - hanging drop,0
+4GBN,1,magnesium,Metal/cations,very high,neutral,ambient,vapor diffusion - hanging drop,0
+4IOF,1,magnesium,Metal/cations,mid,missing,missing,missing,0
+4JCJ,1,magnesium,Metal/cations,mid,basic,ambient,vapor diffusion - hanging drop,0
+4M1C,1,magnesium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+4XC4,1,magnesium,Metal/cations,high,mildly basic,ambient,vapor diffusion - hanging drop,0
+4XLV,1,magnesium,Metal/cations,mid,mildly basic,cold,vapor diffusion - hanging drop,1
+5CO6,1,magnesium,Metal/cations,very high,missing,missing,missing,1
+5CO9,1,magnesium,Metal/cations,very high,missing,missing,missing,0
+5WDM,1,magnesium,Metal/cations,mid,basic,ambient,vapor diffusion - sitting drop,0
+5WOB,1,magnesium,Metal/cations,mid,missing,missing,missing,0
+6BCR,1,magnesium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,1
+6BCY,1,magnesium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,1
+6FEY,1,magnesium,Metal/cations,low-mid,missing,ambient,vapor diffusion - unspecified,0
+6FF3,1,magnesium,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - unspecified,0
+6FQR,1,magnesium,Metal/cations,mid,missing,missing,missing,0
+6GQE,1,magnesium,Metal/cations,low-mid,neutral,ambient,vapor diffusion - sitting drop,0
+6VER,1,magnesium,Metal/cations,high,missing,warm,vapor diffusion - sitting drop,0
+6VET,1,magnesium,Metal/cations,high,basic,warm,vapor diffusion - sitting drop,0
+6Z7Y,1,magnesium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+6Z7Z,1,magnesium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,1
+7MJ9,1,magnesium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+7RKD,1,magnesium,Metal/cations,mid,missing,ambient,microbatch,0
+7WW3,1,magnesium,Metal/cations,mid,basic,ambient,vapor diffusion - hanging drop,0
+7YEX,1,magnesium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+7Z50,1,magnesium,Metal/cations,mid,neutral,ambient,vapor diffusion - sitting drop,0
+8PYI,1,magnesium,Metal/cations,mid,missing,ambient,vapor diffusion - unspecified,0
+8PYJ,1,magnesium,Metal/cations,trace-low,missing,missing,missing,0
+8PYK,1,magnesium,Metal/cations,trace-low,missing,missing,missing,0
+8PYL,1,magnesium,Metal/cations,trace-low,missing,missing,missing,0
+8PYM,1,magnesium,Metal/cations,trace-low,missing,missing,missing,0
+8PYN,1,magnesium,Metal/cations,trace-low,missing,missing,missing,0
+4FKA,1,manganese,Metal/cations,high,missing,missing,missing,1
+2R36,1,nickel,Metal/cations,missing,neutral,ambient,vapor diffusion - hanging drop,1
+3EXX,1,nickel,Metal/cations,low-mid,mildly acidic,ambient,vapor diffusion - hanging drop,1
+3INC,1,nickel,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,1
+4M4M,1,nickel,Metal/cations,low-mid,neutral,ambient,vapor diffusion - hanging drop,1
+6S4I,1,nitrate,Anions,very high,basic,warm,vapor diffusion - sitting drop,1
+1LK2,1,phosphate,Anions,missing,neutral,ambient,vapor diffusion - sitting drop,1
+1QQG,1,phosphate,Anions,very high,missing,missing,missing,0
+2EFA,1,phosphate,Anions,mid,missing,missing,missing,0
+2OLY,1,phosphate,Anions,mid,missing,missing,missing,0
+2OLZ,1,phosphate,Anions,mid,missing,missing,missing,0
+2OM0,1,phosphate,Anions,mid,missing,missing,missing,0
+2OM1,1,phosphate,Anions,mid,missing,missing,missing,0
+2OMG,1,phosphate,Anions,low-mid,missing,missing,missing,0
+2OMH,1,phosphate,Anions,low-mid,missing,missing,missing,0
+2OMI,1,phosphate,Anions,low-mid,missing,missing,missing,0
+2OMP,1,phosphate,Anions,low-mid,missing,missing,missing,0
+2OMQ,1,phosphate,Anions,low-mid,missing,missing,missing,0
+2W44,1,phosphate,Anions,mid,missing,missing,missing,0
+2ZPP,1,phosphate,Anions,mid,missing,missing,missing,0
+3Q6E,1,phosphate,Anions,low-mid,missing,missing,missing,0
+4A7E,1,phosphate,Anions,high,missing,missing,missing,0
+4EWW,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EWX,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EWZ,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EX0,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EX1,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EXX,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EY1,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EY9,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EYD,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EYN,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EYP,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F0N,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1A,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1B,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1C,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1D,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1F,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1G,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F4T,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F4V,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F51,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F8F,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4FG3,1,phosphate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4IDW,1,phosphate,Anions,mid,missing,missing,missing,0
+5D52,1,phosphate,Anions,mid,missing,missing,missing,1
+5D53,1,phosphate,Anions,mid,missing,missing,missing,1
+5D54,1,phosphate,Anions,mid,missing,missing,missing,1
+5D5E,1,phosphate,Anions,mid,missing,missing,missing,1
+5WRL,1,phosphate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+5WRM,1,phosphate,Anions,mid,missing,ambient,vapor diffusion - hanging drop,0
+6GNQ,1,phosphate,Anions,missing,mildly acidic,ambient,batch,0
+6TC2,1,phosphate,Anions,mid,mildly acidic,ambient,batch,1
+6XC9,1,phosphate,Anions,mid,missing,ambient,vapor diffusion - hanging drop,0
+6XCP,1,phosphate,Anions,mid,missing,ambient,vapor diffusion - hanging drop,1
+7QAC,1,phosphate,Anions,mid,basic,ambient,batch,0
+7QAC,2,phosphate,Anions,mid,mildly basic,ambient,batch,0
+7QAC,3,phosphate,Anions,mid,mildly basic,ambient,batch,0
+7QAC,4,phosphate,Anions,mid,mildly basic,ambient,batch,0
+7QAC,5,phosphate,Anions,mid,mildly basic,ambient,batch,0
+7QAC,6,phosphate,Anions,mid,mildly basic,ambient,batch,0
+8PI6,1,phosphate,Anions,missing,missing,missing,missing,0
+8TKT,1,phosphate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,0
+8VD2,1,phosphate,Anions,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+8VDU,1,phosphate,Anions,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+9IBB,1,phosphate,Anions,mid,mildly basic,ambient,batch,0
+9M4X,1,phosphate,Anions,high,missing,ambient,vapor diffusion - sitting drop,0
+9M4Y,1,phosphate,Anions,high,missing,ambient,vapor diffusion - sitting drop,0
+9M4Z,1,phosphate,Anions,high,missing,ambient,vapor diffusion - sitting drop,0
+9M50,1,phosphate,Anions,high,missing,ambient,vapor diffusion - sitting drop,0
+9M51,1,phosphate,Anions,high,missing,ambient,vapor diffusion - sitting drop,0
+9QLD,1,phosphate,Anions,mid,mildly basic,ambient,batch,0
+9R48,1,phosphate,Anions,high,missing,missing,missing,0
+9R49,1,phosphate,Anions,high,missing,missing,missing,0
+9R4A,1,phosphate,Anions,high,missing,missing,missing,0
+9R4B,1,phosphate,Anions,high,missing,missing,missing,0
+9R4C,1,phosphate,Anions,high,missing,missing,missing,0
+9R4E,1,phosphate,Anions,high,missing,missing,missing,0
+3UTQ,1,potassium,Metal/cations,mid,missing,missing,missing,0
+4IDW,1,potassium,Metal/cations,mid,missing,missing,missing,0
+5T7R,1,potassium,Metal/cations,high,basic,warm,vapor diffusion - hanging drop,0
+6FQ1,1,potassium,Metal/cations,mid,missing,missing,missing,0
+6NWV,1,potassium,Metal/cations,mid,missing,missing,missing,0
+6XC9,1,potassium,Metal/cations,mid,missing,ambient,vapor diffusion - hanging drop,0
+6XCP,1,potassium,Metal/cations,mid,missing,ambient,vapor diffusion - hanging drop,0
+7QAC,1,potassium,Metal/cations,mid,basic,ambient,batch,0
+7QAC,2,potassium,Metal/cations,mid,mildly basic,ambient,batch,0
+7QAC,3,potassium,Metal/cations,mid,mildly basic,ambient,batch,0
+7QAC,4,potassium,Metal/cations,mid,mildly basic,ambient,batch,0
+7QAC,5,potassium,Metal/cations,mid,mildly basic,ambient,batch,0
+7QAC,6,potassium,Metal/cations,mid,mildly basic,ambient,batch,0
+8TKT,1,potassium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+8VCY,1,potassium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+8VD2,1,potassium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+9R48,1,potassium,Metal/cations,high,missing,missing,missing,0
+9R49,1,potassium,Metal/cations,high,missing,missing,missing,0
+9R4A,1,potassium,Metal/cations,high,missing,missing,missing,0
+9R4B,1,potassium,Metal/cations,high,missing,missing,missing,0
+9R4C,1,potassium,Metal/cations,high,missing,missing,missing,0
+9R4E,1,potassium,Metal/cations,high,missing,missing,missing,0
+1BEN,1,sodium,Metal/cations,high,mildly acidic,missing,slow cooling,0
+1EV3,1,sodium,Metal/cations,high,basic,ambient,slow cooling,0
+1EV6,1,sodium,Metal/cations,high,neutral,ambient,slow cooling,1
+1EVR,1,sodium,Metal/cations,high,neutral,ambient,slow cooling,1
+1G7A,1,sodium,Metal/cations,high,mildly acidic,ambient,slow cooling,0
+1G7B,1,sodium,Metal/cations,high,mildly acidic,ambient,slow cooling,0
+1GUJ,1,sodium,Metal/cations,low-mid,missing,missing,missing,0
+1HTV,1,sodium,Metal/cations,missing,neutral,ambient,vapor diffusion - hanging drop,0
+1I44,1,sodium,Metal/cations,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+1IMX,1,sodium,Metal/cations,missing,neutral,ambient,vapor diffusion - hanging drop,0
+1J73,1,sodium,Metal/cations,missing,missing,missing,missing,0
+1JCA,1,sodium,Metal/cations,missing,missing,missing,missing,0
+1K3A,1,sodium,Metal/cations,missing,mildly basic,cold,vapor diffusion - hanging drop,0
+1MSO,1,sodium,Metal/cations,low-mid,mildly acidic,ambient,slow cooling,0
+1OS3,1,sodium,Metal/cations,missing,mildly acidic,ambient,slow cooling,0
+1OS4,1,sodium,Metal/cations,missing,mildly acidic,ambient,slow cooling,0
+1Q4V,1,sodium,Metal/cations,missing,missing,missing,missing,0
+1QIY,1,sodium,Metal/cations,very high,neutral,missing,batch,0
+1QIZ,1,sodium,Metal/cations,very high,neutral,missing,batch,0
+1QJ0,1,sodium,Metal/cations,high,neutral,missing,batch,0
+1QQG,1,sodium,Metal/cations,very high,missing,missing,missing,0
+1RWE,1,sodium,Metal/cations,missing,missing,missing,missing,0
+1TRZ,1,sodium,Metal/cations,mid,mildly acidic,missing,unspecified/other,1
+1UZ9,1,sodium,Metal/cations,mid,mildly basic,missing,unspecified/other,0
+1W8P,1,sodium,Metal/cations,mid,mildly basic,missing,unspecified/other,0
+1WDZ,1,sodium,Metal/cations,mid,basic,ambient,vapor diffusion - hanging drop,0
+1XDA,1,sodium,Metal/cations,mid,mildly basic,missing,unspecified/other,0
+1XW7,1,sodium,Metal/cations,missing,missing,missing,missing,0
+1ZEG,1,sodium,Metal/cations,very high,neutral,missing,batch,0
+1ZEH,1,sodium,Metal/cations,very high,neutral,missing,batch,0
+1ZNJ,1,sodium,Metal/cations,mid,neutral,missing,batch,0
+2A3G,1,sodium,Metal/cations,missing,mildly acidic,ambient,slow cooling,0
+2CEU,1,sodium,Metal/cations,low-mid,missing,missing,missing,0
+2EFA,1,sodium,Metal/cations,mid,missing,missing,missing,0
+2OLY,1,sodium,Metal/cations,very high,missing,missing,missing,0
+2OM0,1,sodium,Metal/cations,very high,missing,missing,missing,0
+2OMG,1,sodium,Metal/cations,mid,missing,missing,missing,1
+2OMH,1,sodium,Metal/cations,high,missing,missing,missing,1
+2OMI,1,sodium,Metal/cations,mid,missing,missing,missing,0
+2OMP,1,sodium,Metal/cations,low-mid,missing,missing,missing,0
+2OMQ,1,sodium,Metal/cations,low-mid,missing,missing,missing,0
+2QIU,1,sodium,Metal/cations,missing,missing,missing,missing,0
+2R34,1,sodium,Metal/cations,missing,neutral,ambient,vapor diffusion - hanging drop,0
+2R35,1,sodium,Metal/cations,missing,neutral,ambient,vapor diffusion - hanging drop,1
+2R36,1,sodium,Metal/cations,missing,neutral,ambient,vapor diffusion - hanging drop,1
+2RGT,1,sodium,Metal/cations,high,missing,missing,missing,0
+2WRX,1,sodium,Metal/cations,mid,acidic,missing,unspecified/other,1
+2WS7,1,sodium,Metal/cations,very high,mildly basic,missing,unspecified/other,0
+2ZM3,1,sodium,Metal/cations,very high,missing,missing,missing,0
+2ZP6,1,sodium,Metal/cations,high,mildly basic,ambient,vapor diffusion - hanging drop,0
+2ZPP,1,sodium,Metal/cations,mid,missing,missing,missing,0
+3BXQ,1,sodium,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3ETA,1,sodium,Metal/cations,high,missing,missing,missing,0
+3EXX,1,sodium,Metal/cations,trace-low,mildly acidic,ambient,vapor diffusion - hanging drop,1
+3F5P,1,sodium,Metal/cations,very high,missing,missing,missing,0
+3FHP,1,sodium,Metal/cations,low-mid,mildly acidic,ambient,liquid diffusion,0
+3FQW,1,sodium,Metal/cations,mid,missing,missing,missing,0
+3FQX,1,sodium,Metal/cations,mid,missing,missing,missing,0
+3GKY,1,sodium,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3HYD,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+3ILG,1,sodium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3INC,1,sodium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3IR0,1,sodium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3JSD,1,sodium,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3KQ6,1,sodium,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3O23,1,sodium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3P2X,1,sodium,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3P33,1,sodium,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3P7L,1,sodium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3P7O,1,sodium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3Q6E,1,sodium,Metal/cations,low-mid,missing,missing,missing,0
+3ROV,1,sodium,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3RTO,1,sodium,Metal/cations,very high,mildly acidic,missing,small tubes,0
+3TT8,1,sodium,Metal/cations,trace-low,mildly acidic,missing,vapor diffusion - hanging drop,0
+3TUV,1,sodium,Metal/cations,mid,neutral,ambient,vapor diffusion - sitting drop,0
+3U4N,1,sodium,Metal/cations,very high,missing,missing,missing,0
+3UTQ,1,sodium,Metal/cations,mid,missing,missing,missing,0
+3UTS,1,sodium,Metal/cations,mid,missing,missing,missing,0
+3UTT,1,sodium,Metal/cations,mid,missing,missing,missing,0
+3V19,1,sodium,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3V1G,1,sodium,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3W11,1,sodium,Metal/cations,high,missing,missing,missing,0
+3W12,1,sodium,Metal/cations,high,missing,missing,missing,0
+3W13,1,sodium,Metal/cations,high,missing,missing,missing,0
+3W7Y,1,sodium,Metal/cations,mid,basic,ambient,vapor diffusion - hanging drop,0
+3W7Z,1,sodium,Metal/cations,mid,basic,ambient,vapor diffusion - hanging drop,0
+3W80,1,sodium,Metal/cations,mid,basic,ambient,vapor diffusion - hanging drop,0
+3ZXB,1,sodium,Metal/cations,high,mildly basic,missing,unspecified/other,0
+3ZXC,1,sodium,Metal/cations,high,acidic,missing,unspecified/other,0
+4A7E,1,sodium,Metal/cations,high,missing,missing,missing,0
+4AJZ,1,sodium,Metal/cations,mid,missing,missing,missing,0
+4CXL,1,sodium,Metal/cations,missing,mildly basic,missing,unspecified/other,0
+4CXN,1,sodium,Metal/cations,mid,mildly basic,missing,unspecified/other,0
+4E7T,1,sodium,Metal/cations,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4E7U,1,sodium,Metal/cations,low-mid,mildly acidic,ambient,batch,0
+4E7V,1,sodium,Metal/cations,high,mildly basic,ambient,vapor diffusion - hanging drop,0
+4EWW,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EWX,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EWZ,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EX0,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EX1,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EXX,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EY1,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EY9,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EYD,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EYN,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EYP,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F0N,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F0O,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1A,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1B,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1C,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1D,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1F,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1G,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F4T,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F4V,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F51,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F8F,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4FG3,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4FKA,1,sodium,Metal/cations,very high,missing,missing,missing,1
+4IBM,1,sodium,Metal/cations,mid,neutral,ambient,vapor diffusion - unspecified,0
+4IDW,1,sodium,Metal/cations,mid,missing,missing,missing,0
+4IOF,1,sodium,Metal/cations,mid,missing,missing,missing,0
+4IYD,1,sodium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+4IYF,1,sodium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+4M1C,1,sodium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+4M4F,1,sodium,Metal/cations,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4M4H,1,sodium,Metal/cations,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4M4I,1,sodium,Metal/cations,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4M4J,1,sodium,Metal/cations,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4M4L,1,sodium,Metal/cations,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4M4M,1,sodium,Metal/cations,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4OGA,1,sodium,Metal/cations,high,missing,missing,missing,0
+4P65,1,sodium,Metal/cations,missing,missing,cold,vapor diffusion - hanging drop,0
+4PES,1,sodium,Metal/cations,trace-low,missing,missing,missing,0
+4PF7,1,sodium,Metal/cations,trace-low,missing,missing,missing,0
+4PF9,1,sodium,Metal/cations,trace-low,missing,missing,missing,0
+4PFC,1,sodium,Metal/cations,trace-low,missing,missing,missing,0
+4RXW,1,sodium,Metal/cations,trace-low,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4WDI,1,sodium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+4Y19,1,sodium,Metal/cations,high,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4Z78,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - unspecified,0
+4ZXB,1,sodium,Metal/cations,high,neutral,ambient,vapor diffusion - hanging drop,0
+5AZZ,1,sodium,Metal/cations,missing,mildly acidic,ambient,vapor diffusion - sitting drop,0
+5D52,1,sodium,Metal/cations,mid,missing,missing,missing,0
+5D53,1,sodium,Metal/cations,mid,missing,missing,missing,0
+5D54,1,sodium,Metal/cations,mid,missing,missing,missing,0
+5D5E,1,sodium,Metal/cations,mid,missing,missing,missing,0
+5E1S,1,sodium,Metal/cations,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+5EMS,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - hanging drop,0
+5EN9,1,sodium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+5ENA,1,sodium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+5HPR,1,sodium,Metal/cations,high,mildly basic,ambient,vapor diffusion - sitting drop,1
+5HPU,1,sodium,Metal/cations,very high,mildly basic,ambient,vapor diffusion - sitting drop,0
+5HQI,1,sodium,Metal/cations,mid,missing,missing,missing,0
+5HRQ,1,sodium,Metal/cations,very high,mildly basic,ambient,vapor diffusion - sitting drop,0
+5MAM,1,sodium,Metal/cations,high,missing,missing,missing,0
+5MT3,1,sodium,Metal/cations,high,missing,missing,missing,0
+5MT9,1,sodium,Metal/cations,high,missing,missing,missing,0
+5T7R,1,sodium,Metal/cations,high,basic,warm,vapor diffusion - hanging drop,0
+5UDP,1,sodium,Metal/cations,high,mildly basic,ambient,vapor diffusion - hanging drop,1
+5UOZ,1,sodium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - unspecified,0
+5UQA,1,sodium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - hanging drop,1
+5URT,1,sodium,Metal/cations,mid,missing,missing,missing,1
+5URU,1,sodium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5USP,1,sodium,Metal/cations,mid,missing,missing,missing,1
+5USS,1,sodium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5USV,1,sodium,Metal/cations,mid,missing,missing,missing,1
+5UU2,1,sodium,Metal/cations,mid,missing,missing,missing,0
+5UU3,1,sodium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5UU4,1,sodium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5WOB,1,sodium,Metal/cations,mid,missing,missing,missing,0
+5WRK,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+5WRL,1,sodium,Metal/cations,very high,neutral,ambient,vapor diffusion - hanging drop,0
+5WRM,1,sodium,Metal/cations,very high,missing,ambient,vapor diffusion - hanging drop,0
+6BNT,1,sodium,Metal/cations,high,missing,ambient,vapor diffusion - hanging drop,0
+6GNQ,1,sodium,Metal/cations,missing,mildly acidic,ambient,batch,0
+6GQE,1,sodium,Metal/cations,low-mid,neutral,ambient,vapor diffusion - sitting drop,0
+6H3M,1,sodium,Metal/cations,very high,missing,missing,missing,0
+6NWV,1,sodium,Metal/cations,mid,missing,missing,missing,0
+6Q8Q,1,sodium,Metal/cations,high,missing,missing,missing,0
+6QEY,1,sodium,Metal/cations,mid,missing,missing,missing,0
+6S34,1,sodium,Metal/cations,mid,missing,missing,missing,0
+6TC2,1,sodium,Metal/cations,low-mid,mildly acidic,ambient,batch,0
+6TYH,1,sodium,Metal/cations,missing,missing,ambient,vapor diffusion - sitting drop,0
+6VEP,1,sodium,Metal/cations,mid,missing,warm,vapor diffusion - hanging drop,0
+6XCO,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+6ZI8,1,sodium,Metal/cations,low-mid,missing,missing,missing,0
+7JP3,1,sodium,Metal/cations,low-mid,missing,ambient,vapor diffusion - hanging drop,0
+7KD6,1,sodium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+7MJ6,1,sodium,Metal/cations,high,missing,missing,missing,0
+7MJ7,1,sodium,Metal/cations,high,missing,missing,missing,0
+7MJ8,1,sodium,Metal/cations,high,missing,missing,missing,0
+7NHU,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+7QAC,1,sodium,Metal/cations,mid,basic,ambient,batch,0
+7QAC,2,sodium,Metal/cations,mid,mildly basic,ambient,batch,0
+7QAC,3,sodium,Metal/cations,mid,mildly basic,ambient,batch,0
+7QAC,4,sodium,Metal/cations,mid,mildly basic,ambient,batch,0
+7QAC,5,sodium,Metal/cations,mid,mildly basic,ambient,batch,0
+7QAC,6,sodium,Metal/cations,mid,mildly basic,ambient,batch,0
+7S4Y,1,sodium,Metal/cations,low-mid,missing,ambient,batch,0
+7VSJ,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7XRX,1,sodium,Metal/cations,very high,missing,missing,missing,0
+7YEW,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7YEX,1,sodium,Metal/cations,mid,neutral,ambient,vapor diffusion - hanging drop,0
+7YEY,1,sodium,Metal/cations,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+8AYG,1,sodium,Metal/cations,missing,mildly acidic,cold,vapor diffusion - hanging drop,0
+8HGZ,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - hanging drop,0
+8IPZ,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+8PI4,1,sodium,Metal/cations,mid,basic,ambient,vapor diffusion - sitting drop,0
+8PI6,1,sodium,Metal/cations,mid,missing,missing,missing,0
+8TK9,1,sodium,Metal/cations,mid,missing,missing,missing,0
+8TKT,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+8TKU,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+8VCY,1,sodium,Metal/cations,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+8WU0,1,sodium,Metal/cations,mid,missing,missing,missing,0
+8Z4B,1,sodium,Metal/cations,very high,missing,ambient,vapor diffusion - sitting drop,0
+9IBB,1,sodium,Metal/cations,mid,mildly basic,ambient,batch,0
+9LVC,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+9LVD,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+9LVE,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+9LVX,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+9LVY,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+9M4X,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+9M4Y,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+9M4Z,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+9M50,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+9M51,1,sodium,Metal/cations,mid,missing,ambient,vapor diffusion - sitting drop,0
+9QLD,1,sodium,Metal/cations,mid,mildly basic,ambient,batch,0
+9R48,1,sodium,Metal/cations,high,missing,missing,missing,0
+9R49,1,sodium,Metal/cations,high,missing,missing,missing,0
+9R4A,1,sodium,Metal/cations,high,missing,missing,missing,0
+9R4B,1,sodium,Metal/cations,high,missing,missing,missing,0
+9R4C,1,sodium,Metal/cations,high,missing,missing,missing,0
+9R4E,1,sodium,Metal/cations,high,missing,missing,missing,0
+1IGR,1,sulfate,Anions,very high,mildly basic,missing,unspecified/other,1
+2B4S,1,sulfate,Anions,very high,mildly basic,cold,vapor diffusion - hanging drop,1
+2DSR,1,sulfate,Anions,high,mildly basic,ambient,vapor diffusion - sitting drop,0
+2HR7,1,sulfate,Anions,very high,basic,ambient,vapor diffusion - hanging drop,1
+3LVP,1,sulfate,Anions,very high,mildly basic,ambient,vapor diffusion - hanging drop,1
+3RTO,1,sulfate,Anions,very high,mildly acidic,missing,small tubes,0
+3WS3,1,sulfate,Anions,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+4GBC,1,sulfate,Anions,very high,neutral,ambient,vapor diffusion - hanging drop,0
+4GBI,1,sulfate,Anions,very high,neutral,ambient,vapor diffusion - hanging drop,0
+4GBK,1,sulfate,Anions,very high,basic,ambient,vapor diffusion - hanging drop,0
+4GBL,1,sulfate,Anions,very high,basic,ambient,vapor diffusion - hanging drop,0
+4GBN,1,sulfate,Anions,very high,neutral,ambient,vapor diffusion - hanging drop,0
+4JCJ,1,sulfate,Anions,trace-low,basic,ambient,vapor diffusion - hanging drop,0
+4XC4,1,sulfate,Anions,high,mildly basic,ambient,vapor diffusion - hanging drop,0
+4XSS,1,sulfate,Anions,very high,basic,ambient,vapor diffusion - hanging drop,1
+4Y19,1,sulfate,Anions,high,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4Y1A,1,sulfate,Anions,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+5BTS,1,sulfate,Anions,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5HZN,1,sulfate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,1
+5JYQ,1,sulfate,Anions,very high,missing,warm,vapor diffusion - sitting drop,1
+5U1M,1,sulfate,Anions,missing,missing,ambient,vapor diffusion - hanging drop,0
+5U8Q,1,sulfate,Anions,high,neutral,ambient,vapor diffusion - hanging drop,1
+5U8R,1,sulfate,Anions,high,neutral,ambient,vapor diffusion - hanging drop,1
+5UDP,1,sulfate,Anions,high,mildly basic,ambient,vapor diffusion - hanging drop,0
+6ROL,1,sulfate,Anions,mid,mildly basic,ambient,vapor diffusion - sitting drop,1
+7QHP,1,sulfate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,1
+7VKL,1,sulfate,Anions,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+7Z5L,1,sulfate,Anions,high,mildly basic,ambient,vapor diffusion - hanging drop,1
+7Z5Q,1,sulfate,Anions,high,mildly basic,ambient,vapor diffusion - hanging drop,1
+9CIV,1,sulfate,Anions,mid,missing,ambient,microbatch,0
+9M4X,1,sulfate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,1
+9M4Y,1,sulfate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,1
+9M4Z,1,sulfate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,1
+9M50,1,sulfate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,1
+9M51,1,sulfate,Anions,mid,missing,ambient,vapor diffusion - sitting drop,1
+1BEN,1,zinc,Metal/cations,trace-low,mildly acidic,missing,slow cooling,1
+1EV3,1,zinc,Metal/cations,mid,basic,ambient,slow cooling,1
+1EV6,1,zinc,Metal/cations,mid,neutral,ambient,slow cooling,1
+1EVR,1,zinc,Metal/cations,mid,neutral,ambient,slow cooling,1
+1G7A,1,zinc,Metal/cations,trace-low,mildly acidic,ambient,slow cooling,1
+1G7B,1,zinc,Metal/cations,trace-low,mildly acidic,ambient,slow cooling,1
+1HTV,1,zinc,Metal/cations,missing,neutral,ambient,vapor diffusion - hanging drop,1
+1MSO,1,zinc,Metal/cations,trace-low,mildly acidic,ambient,slow cooling,1
+1OS3,1,zinc,Metal/cations,missing,mildly acidic,ambient,slow cooling,1
+1OS4,1,zinc,Metal/cations,missing,mildly acidic,ambient,slow cooling,1
+1QIY,1,zinc,Metal/cations,very high,neutral,missing,batch,1
+1QIZ,1,zinc,Metal/cations,very high,neutral,missing,batch,1
+1QJ0,1,zinc,Metal/cations,very high,neutral,missing,batch,1
+1TRZ,1,zinc,Metal/cations,mid,mildly acidic,missing,unspecified/other,1
+1UZ9,1,zinc,Metal/cations,trace-low,mildly basic,missing,unspecified/other,1
+1W8P,1,zinc,Metal/cations,missing,mildly basic,missing,unspecified/other,1
+1XDA,1,zinc,Metal/cations,missing,mildly basic,missing,unspecified/other,1
+1ZEG,1,zinc,Metal/cations,very high,neutral,missing,batch,1
+1ZEH,1,zinc,Metal/cations,very high,neutral,missing,batch,1
+1ZNJ,1,zinc,Metal/cations,missing,neutral,missing,batch,1
+2A3G,1,zinc,Metal/cations,missing,mildly acidic,ambient,slow cooling,1
+2QIU,1,zinc,Metal/cations,missing,missing,missing,missing,1
+3BXQ,1,zinc,Metal/cations,missing,mildly basic,ambient,vapor diffusion - hanging drop,1
+3FHP,1,zinc,Metal/cations,trace-low,mildly acidic,ambient,liquid diffusion,1
+3FQ9,1,zinc,Metal/cations,missing,missing,missing,missing,1
+3GKY,1,zinc,Metal/cations,missing,mildly basic,ambient,vapor diffusion - hanging drop,1
+3JSD,1,zinc,Metal/cations,missing,mildly basic,ambient,vapor diffusion - unspecified,1
+3KQ6,1,zinc,Metal/cations,missing,mildly basic,ambient,vapor diffusion - unspecified,1
+3P2X,1,zinc,Metal/cations,missing,mildly basic,ambient,vapor diffusion - hanging drop,1
+3P33,1,zinc,Metal/cations,missing,mildly basic,ambient,vapor diffusion - hanging drop,1
+3ROV,1,zinc,Metal/cations,missing,mildly basic,ambient,vapor diffusion - hanging drop,1
+3RTO,1,zinc,Metal/cations,very high,mildly acidic,missing,small tubes,1
+3V19,1,zinc,Metal/cations,missing,mildly basic,ambient,vapor diffusion - unspecified,1
+3V1G,1,zinc,Metal/cations,missing,mildly basic,ambient,vapor diffusion - unspecified,1
+3W7Y,1,zinc,Metal/cations,missing,basic,ambient,vapor diffusion - hanging drop,1
+3W7Z,1,zinc,Metal/cations,missing,basic,ambient,vapor diffusion - hanging drop,1
+3W80,1,zinc,Metal/cations,missing,basic,ambient,vapor diffusion - hanging drop,1
+4E7T,1,zinc,Metal/cations,trace-low,neutral,ambient,vapor diffusion - hanging drop,1
+4E7U,1,zinc,Metal/cations,trace-low,mildly acidic,ambient,batch,1
+4E7V,1,zinc,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,1
+4FKA,1,zinc,Metal/cations,very high,missing,missing,missing,0
+4JCJ,1,zinc,Metal/cations,trace-low,basic,ambient,vapor diffusion - hanging drop,1
+4P65,1,zinc,Metal/cations,missing,missing,cold,vapor diffusion - hanging drop,1
+5E7W,1,zinc,Metal/cations,mid,mildly acidic,ambient,batch,1
+5EMS,1,zinc,Metal/cations,missing,missing,ambient,vapor diffusion - hanging drop,1
+5HPR,1,zinc,Metal/cations,trace-low,mildly basic,ambient,vapor diffusion - sitting drop,0
+5HPU,1,zinc,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - sitting drop,1
+5HRQ,1,zinc,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - sitting drop,1
+5UDP,1,zinc,Metal/cations,trace-low,mildly basic,ambient,vapor diffusion - hanging drop,1
+5UOZ,1,zinc,Metal/cations,trace-low,mildly basic,ambient,vapor diffusion - unspecified,0
+5UQA,1,zinc,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,1
+5URU,1,zinc,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - sitting drop,1
+5USS,1,zinc,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - sitting drop,1
+5UU3,1,zinc,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - sitting drop,1
+5UU4,1,zinc,Metal/cations,low-mid,mildly basic,ambient,vapor diffusion - sitting drop,1
+6GNQ,1,zinc,Metal/cations,missing,mildly acidic,ambient,batch,1
+6TC2,1,zinc,Metal/cations,trace-low,mildly acidic,ambient,batch,1
+6TYH,1,zinc,Metal/cations,missing,missing,ambient,vapor diffusion - sitting drop,1
+7JP3,1,zinc,Metal/cations,missing,missing,ambient,vapor diffusion - hanging drop,1
+7QAC,1,zinc,Metal/cations,trace-low,basic,ambient,batch,0
+7QAC,2,zinc,Metal/cations,trace-low,mildly basic,ambient,batch,0
+7QAC,3,zinc,Metal/cations,trace-low,mildly basic,ambient,batch,0
+7QAC,4,zinc,Metal/cations,trace-low,mildly basic,ambient,batch,0
+7QAC,5,zinc,Metal/cations,trace-low,mildly basic,ambient,batch,0
+7QAC,6,zinc,Metal/cations,trace-low,mildly basic,ambient,batch,0
+7S4Y,1,zinc,Metal/cations,trace-low,missing,ambient,batch,1
+8PI5,1,zinc,Metal/cations,missing,basic,ambient,vapor diffusion - sitting drop,1
+9IBB,1,zinc,Metal/cations,trace-low,mildly basic,ambient,batch,1
+9QLD,1,zinc,Metal/cations,trace-low,mildly basic,ambient,batch,1
+1EV3,1,cresol,Organic ligands/additives,high,basic,ambient,slow cooling,1
+1EV6,1,cresol,Organic ligands/additives,high,neutral,ambient,slow cooling,1
+1UZ9,1,cresol,Organic ligands/additives,missing,mildly basic,missing,unspecified/other,1
+1ZEH,1,cresol,Organic ligands/additives,very high,neutral,missing,batch,1
+2OMG,1,cresol,Organic ligands/additives,low-mid,missing,missing,missing,1
+4E7V,1,cresol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - hanging drop,1
+6GNQ,1,cresol,Organic ligands/additives,missing,mildly acidic,ambient,batch,1
+9IBB,1,cresol,Organic ligands/additives,missing,mildly basic,ambient,batch,1
+1JCA,1,phenol,Organic ligands/additives,missing,missing,missing,missing,0
+1Q4V,1,phenol,Organic ligands/additives,missing,missing,missing,missing,1
+1QIY,1,phenol,Organic ligands/additives,very high,neutral,missing,batch,1
+1QIZ,1,phenol,Organic ligands/additives,very high,neutral,missing,batch,0
+1RWE,1,phenol,Organic ligands/additives,missing,missing,missing,missing,1
+1W8P,1,phenol,Organic ligands/additives,missing,mildly basic,missing,unspecified/other,1
+1XW7,1,phenol,Organic ligands/additives,missing,missing,missing,missing,1
+1ZEG,1,phenol,Organic ligands/additives,very high,neutral,missing,batch,1
+1ZNJ,1,phenol,Organic ligands/additives,missing,neutral,missing,batch,1
+2WRV,1,phenol,Organic ligands/additives,missing,mildly basic,missing,unspecified/other,0
+2WS0,1,phenol,Organic ligands/additives,missing,mildly basic,missing,unspecified/other,0
+2WS6,1,phenol,Organic ligands/additives,missing,mildly basic,missing,unspecified/other,1
+2WS7,1,phenol,Organic ligands/additives,missing,mildly basic,missing,unspecified/other,1
+3BXQ,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+3FQ9,1,phenol,Organic ligands/additives,missing,missing,missing,missing,0
+3GKY,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - hanging drop,1
+3JSD,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - unspecified,1
+3KQ6,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - unspecified,1
+3P2X,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - hanging drop,1
+3P33,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - hanging drop,1
+3ROV,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - hanging drop,1
+3V19,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - unspecified,1
+3V1G,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - unspecified,1
+3ZQR,1,phenol,Organic ligands/additives,missing,missing,missing,missing,1
+3ZS2,1,phenol,Organic ligands/additives,missing,missing,missing,missing,1
+4AJZ,1,phenol,Organic ligands/additives,trace-low,missing,missing,missing,1
+4P65,1,phenol,Organic ligands/additives,missing,missing,cold,vapor diffusion - hanging drop,1
+5BQQ,1,phenol,Organic ligands/additives,missing,missing,missing,missing,1
+5EMS,1,phenol,Organic ligands/additives,missing,missing,ambient,vapor diffusion - hanging drop,1
+5HPU,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - sitting drop,1
+5HRQ,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - sitting drop,1
+5UDP,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - hanging drop,1
+5UQA,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - hanging drop,1
+5URU,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - sitting drop,1
+5USS,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - sitting drop,1
+5UU3,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - sitting drop,1
+5UU4,1,phenol,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - sitting drop,1
+6CK2,1,phenol,Organic ligands/additives,missing,missing,missing,missing,1
+6TYH,1,phenol,Organic ligands/additives,missing,missing,ambient,vapor diffusion - sitting drop,1
+7JP3,1,phenol,Organic ligands/additives,missing,missing,ambient,vapor diffusion - hanging drop,1
+8ONR,1,phenol,Organic ligands/additives,mid,missing,missing,missing,1
+1B9E,1,citrate,Anions,mid,missing,missing,missing,0
+1BEN,1,citrate,Anions,low-mid,mildly acidic,missing,slow cooling,0
+1EV3,1,citrate,Anions,high,basic,ambient,slow cooling,0
+1EV6,1,citrate,Anions,high,neutral,ambient,slow cooling,0
+1EVR,1,citrate,Anions,high,neutral,ambient,slow cooling,0
+1G7A,1,citrate,Anions,low-mid,mildly acidic,ambient,slow cooling,0
+1G7B,1,citrate,Anions,low-mid,mildly acidic,ambient,slow cooling,0
+1HTV,1,citrate,Anions,missing,neutral,ambient,vapor diffusion - hanging drop,0
+1J73,1,citrate,Anions,missing,missing,missing,missing,0
+1JCA,1,citrate,Anions,missing,missing,missing,missing,0
+1M5A,1,citrate,Anions,missing,mildly acidic,warm,slow cooling,0
+1MSO,1,citrate,Anions,low-mid,mildly acidic,ambient,slow cooling,0
+1OS3,1,citrate,Anions,missing,mildly acidic,ambient,slow cooling,0
+1OS4,1,citrate,Anions,missing,mildly acidic,ambient,slow cooling,0
+1Q4V,1,citrate,Anions,missing,missing,missing,missing,0
+1QIY,1,citrate,Anions,high,neutral,missing,batch,0
+1QIZ,1,citrate,Anions,high,neutral,missing,batch,0
+1QJ0,1,citrate,Anions,high,neutral,missing,batch,0
+1RWE,1,citrate,Anions,missing,missing,missing,missing,0
+1TGR,1,citrate,Anions,missing,missing,missing,missing,0
+1TRZ,1,citrate,Anions,mid,mildly acidic,missing,unspecified/other,0
+1UZ9,1,citrate,Anions,mid,mildly basic,missing,unspecified/other,0
+1W8P,1,citrate,Anions,mid,mildly basic,missing,unspecified/other,0
+1XDA,1,citrate,Anions,mid,mildly basic,missing,unspecified/other,0
+1XW7,1,citrate,Anions,missing,missing,missing,missing,0
+1ZEG,1,citrate,Anions,very high,neutral,missing,batch,0
+1ZEH,1,citrate,Anions,very high,neutral,missing,batch,0
+2A3G,1,citrate,Anions,missing,mildly acidic,ambient,slow cooling,0
+2QIU,1,citrate,Anions,missing,missing,missing,missing,0
+2R34,1,citrate,Anions,missing,neutral,ambient,vapor diffusion - hanging drop,0
+2R35,1,citrate,Anions,missing,neutral,ambient,vapor diffusion - hanging drop,0
+2R36,1,citrate,Anions,missing,neutral,ambient,vapor diffusion - hanging drop,0
+2RGT,1,citrate,Anions,high,missing,missing,missing,0
+2WRV,1,citrate,Anions,missing,mildly basic,missing,unspecified/other,0
+2WS0,1,citrate,Anions,mid,mildly basic,missing,unspecified/other,0
+2WS6,1,citrate,Anions,mid,mildly basic,missing,unspecified/other,0
+2WS7,1,citrate,Anions,low-mid,mildly basic,missing,unspecified/other,0
+2ZP6,1,citrate,Anions,high,mildly basic,ambient,vapor diffusion - hanging drop,0
+3BXQ,1,citrate,Anions,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3ETA,1,citrate,Anions,high,missing,missing,missing,0
+3EXX,1,citrate,Anions,trace-low,mildly acidic,ambient,vapor diffusion - hanging drop,0
+3FHP,1,citrate,Anions,low-mid,mildly acidic,ambient,liquid diffusion,0
+3FQ9,1,citrate,Anions,very high,missing,missing,missing,0
+3GKY,1,citrate,Anions,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3HYD,1,citrate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+3ILG,1,citrate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3INC,1,citrate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3IR0,1,citrate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3JSD,1,citrate,Anions,low-mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3KQ6,1,citrate,Anions,low-mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3KRM,1,citrate,Anions,very high,missing,missing,missing,0
+3P2X,1,citrate,Anions,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3P33,1,citrate,Anions,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3P7L,1,citrate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3P7O,1,citrate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+3ROV,1,citrate,Anions,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3RTO,1,citrate,Anions,very high,mildly acidic,missing,small tubes,0
+3TT8,1,citrate,Anions,trace-low,mildly acidic,missing,vapor diffusion - hanging drop,0
+3TUV,1,citrate,Anions,mid,neutral,ambient,vapor diffusion - sitting drop,0
+3UTS,1,citrate,Anions,mid,missing,missing,missing,0
+3UTT,1,citrate,Anions,mid,missing,missing,missing,0
+3V19,1,citrate,Anions,low-mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3V1G,1,citrate,Anions,low-mid,mildly basic,ambient,vapor diffusion - unspecified,0
+3W11,1,citrate,Anions,high,missing,missing,missing,0
+3W12,1,citrate,Anions,high,missing,missing,missing,0
+3W13,1,citrate,Anions,high,missing,missing,missing,0
+3W7Y,1,citrate,Anions,mid,basic,ambient,vapor diffusion - hanging drop,0
+3W7Z,1,citrate,Anions,mid,basic,ambient,vapor diffusion - hanging drop,0
+3W80,1,citrate,Anions,mid,basic,ambient,vapor diffusion - hanging drop,0
+3ZU1,1,citrate,Anions,mid,missing,missing,missing,0
+3ZXB,1,citrate,Anions,high,mildly basic,missing,unspecified/other,0
+4CXL,1,citrate,Anions,missing,mildly basic,missing,unspecified/other,0
+4CXN,1,citrate,Anions,mid,mildly basic,missing,unspecified/other,0
+4E7T,1,citrate,Anions,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4E7U,1,citrate,Anions,low-mid,mildly acidic,ambient,batch,0
+4E7V,1,citrate,Anions,high,mildly basic,ambient,vapor diffusion - hanging drop,0
+4F0O,1,citrate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4FKA,1,citrate,Anions,very high,missing,missing,missing,0
+4IYD,1,citrate,Anions,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+4IYF,1,citrate,Anions,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+4M4F,1,citrate,Anions,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4M4H,1,citrate,Anions,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4M4I,1,citrate,Anions,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4M4J,1,citrate,Anions,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4M4L,1,citrate,Anions,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4M4M,1,citrate,Anions,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+4NIB,1,citrate,Anions,high,missing,missing,missing,0
+4OGA,1,citrate,Anions,high,missing,missing,missing,0
+4P65,1,citrate,Anions,missing,missing,cold,vapor diffusion - hanging drop,0
+4RXW,1,citrate,Anions,trace-low,mildly acidic,ambient,vapor diffusion - hanging drop,0
+5AZZ,1,citrate,Anions,missing,mildly acidic,ambient,vapor diffusion - sitting drop,0
+5E7W,1,citrate,Anions,high,mildly acidic,ambient,batch,0
+5EMS,1,citrate,Anions,mid,missing,ambient,vapor diffusion - hanging drop,0
+5EN9,1,citrate,Anions,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+5ENA,1,citrate,Anions,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+5HPR,1,citrate,Anions,high,mildly basic,ambient,vapor diffusion - sitting drop,0
+5HPU,1,citrate,Anions,very high,mildly basic,ambient,vapor diffusion - sitting drop,0
+5HQI,1,citrate,Anions,mid,missing,missing,missing,0
+5HRQ,1,citrate,Anions,very high,mildly basic,ambient,vapor diffusion - sitting drop,0
+5UOE,1,citrate,Anions,low-mid,missing,missing,missing,0
+5UOZ,1,citrate,Anions,mid,mildly basic,ambient,vapor diffusion - unspecified,0
+5UQA,1,citrate,Anions,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+5URT,1,citrate,Anions,mid,missing,missing,missing,0
+5URU,1,citrate,Anions,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5USP,1,citrate,Anions,mid,missing,missing,missing,0
+5USS,1,citrate,Anions,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5USV,1,citrate,Anions,mid,missing,missing,missing,0
+5UU2,1,citrate,Anions,mid,missing,missing,missing,0
+5UU3,1,citrate,Anions,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+5UU4,1,citrate,Anions,mid,mildly basic,ambient,vapor diffusion - sitting drop,0
+6S34,1,citrate,Anions,mid,missing,missing,missing,0
+6TYH,1,citrate,Anions,missing,missing,ambient,vapor diffusion - sitting drop,0
+7JP3,1,citrate,Anions,low-mid,missing,ambient,vapor diffusion - hanging drop,0
+7MJ6,1,citrate,Anions,high,missing,missing,missing,0
+7MJ7,1,citrate,Anions,high,missing,missing,missing,0
+7MJ8,1,citrate,Anions,high,missing,missing,missing,0
+7PPM,1,citrate,Anions,mid,mildly acidic,cold,vapor diffusion - hanging drop,0
+7S4Y,1,citrate,Anions,low-mid,missing,ambient,batch,0
+7VSJ,1,citrate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7XRX,1,citrate,Anions,very high,missing,missing,missing,0
+7YEW,1,citrate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7YEY,1,citrate,Anions,mid,mildly acidic,ambient,vapor diffusion - hanging drop,0
+8IVD,1,citrate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+8PI6,1,citrate,Anions,mid,missing,missing,missing,0
+8WU0,1,citrate,Anions,mid,missing,missing,missing,0
+3T2A,1,malate,Anions,mid,missing,missing,missing,0
+5JYQ,1,malate,Anions,very high,missing,warm,vapor diffusion - sitting drop,0
+5U8Q,1,malate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+5U8R,1,malate,Anions,mid,neutral,ambient,vapor diffusion - hanging drop,0
+6Q8Q,1,malate,Anions,high,missing,missing,missing,0
+8DWN,1,malate,Anions,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+3UTQ,1,tartrate,Anions,mid,missing,missing,missing,0
+5T7R,1,tartrate,Anions,high,basic,warm,vapor diffusion - hanging drop,0
+6NWV,1,tartrate,Anions,mid,missing,missing,missing,0
+8VCY,1,tartrate,Anions,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+8VD0,1,tartrate,Anions,mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+1G1F,1,peg,PEG/polymer,missing,mildly basic,warm,vapor diffusion - hanging drop,0
+1G1G,1,peg,PEG/polymer,missing,neutral,warm,vapor diffusion - hanging drop,0
+1G1H,1,peg,PEG/polymer,missing,mildly basic,warm,vapor diffusion - hanging drop,0
+1GAG,1,peg,PEG/polymer,missing,mildly basic,cold,vapor diffusion - hanging drop,0
+1GZR,1,peg,PEG/polymer,trace-low,mildly basic,missing,vapor diffusion - hanging drop,0
+1GZY,1,peg,PEG/polymer,trace-low,mildly basic,missing,vapor diffusion - hanging drop,0
+1GZZ,1,peg,PEG/polymer,trace-low,mildly basic,missing,vapor diffusion - hanging drop,0
+1H02,1,peg,PEG/polymer,trace-low,mildly basic,missing,vapor diffusion - hanging drop,0
+1I44,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+1IMX,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+1IR3,1,peg,PEG/polymer,missing,mildly basic,missing,unspecified/other,0
+1JK8,1,peg,PEG/polymer,missing,acidic,ambient,vapor diffusion - hanging drop,0
+1K3A,1,peg,PEG/polymer,missing,mildly basic,cold,vapor diffusion - hanging drop,0
+1M7N,1,peg,PEG/polymer,missing,basic,cold,vapor diffusion - sitting drop,0
+1P4O,1,peg,PEG/polymer,missing,basic,cold,vapor diffusion - sitting drop,0
+1WQJ,1,peg,PEG/polymer,missing,mildly basic,cold,vapor diffusion - sitting drop,0
+2B4S,1,peg,PEG/polymer,missing,mildly basic,cold,vapor diffusion - hanging drop,0
+2DSP,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - sitting drop,0
+2DSQ,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - sitting drop,0
+2DSR,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+2HR7,1,peg,PEG/polymer,missing,basic,ambient,vapor diffusion - hanging drop,0
+2WBY,1,peg,PEG/polymer,missing,neutral,missing,unspecified/other,0
+2Z8C,1,peg,PEG/polymer,missing,missing,missing,vapor diffusion - hanging drop,0
+3E4A,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3E4Z,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3KR3,1,peg,PEG/polymer,missing,acidic,ambient,vapor diffusion - unspecified,0
+3OFI,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3P7L,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3P7O,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3QZ2,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3TUV,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - sitting drop,0
+3WS3,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+4DTT,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4DWK,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4FG3,1,peg,PEG/polymer,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4GS8,1,peg,PEG/polymer,missing,neutral,missing,vapor diffusion - hanging drop,0
+4GSC,1,peg,PEG/polymer,missing,neutral,missing,vapor diffusion - hanging drop,0
+4GSF,1,peg,PEG/polymer,missing,neutral,missing,vapor diffusion - hanging drop,0
+4IBM,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - unspecified,0
+4IFH,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4IYD,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+4IYF,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+4JCJ,1,peg,PEG/polymer,missing,basic,ambient,vapor diffusion - hanging drop,0
+4M1C,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4NXO,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4QIA,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4WDI,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+4XLV,1,peg,PEG/polymer,missing,mildly basic,cold,vapor diffusion - hanging drop,0
+4Z76,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - unspecified,0
+4Z77,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - unspecified,0
+4Z78,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - unspecified,0
+4ZXB,1,peg,PEG/polymer,high,neutral,ambient,vapor diffusion - hanging drop,0
+5CJO,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+5CNY,1,peg,PEG/polymer,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+5CO2,1,peg,PEG/polymer,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+5E1S,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+5KQV,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - hanging drop,0
+5T7R,1,peg,PEG/polymer,very high,basic,warm,vapor diffusion - hanging drop,0
+5TQ1,1,peg,PEG/polymer,missing,basic,cold,vapor diffusion - hanging drop,0
+5WDM,1,peg,PEG/polymer,missing,basic,ambient,vapor diffusion - sitting drop,0
+6BCY,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+6BD1,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+6BD2,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+6BQT,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+6FEY,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - unspecified,0
+6FF3,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - unspecified,0
+6GQE,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - sitting drop,0
+6O17,1,peg,PEG/polymer,missing,missing,ambient,batch,0
+6P4Z,1,peg,PEG/polymer,mid,missing,ambient,vapor diffusion - sitting drop,0
+6ROL,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+6S4J,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+6TC2,1,peg,PEG/polymer,missing,mildly acidic,ambient,batch,0
+6VEP,1,peg,PEG/polymer,low-mid,missing,warm,vapor diffusion - hanging drop,0
+6VES,1,peg,PEG/polymer,high,missing,warm,vapor diffusion - sitting drop,0
+6XC9,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - hanging drop,0
+6XCO,1,peg,PEG/polymer,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+6XCP,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - hanging drop,0
+6Z7W,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - sitting drop,0
+6Z7Y,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+6Z7Z,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - sitting drop,0
+7K1D,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+7K1E,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - hanging drop,0
+7K1F,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+7KD6,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+7MJ9,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - sitting drop,0
+7NHU,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - sitting drop,0
+7PPL,1,peg,PEG/polymer,missing,mildly basic,cold,vapor diffusion - hanging drop,0
+7PPM,1,peg,PEG/polymer,missing,mildly acidic,cold,vapor diffusion - hanging drop,0
+7QHP,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - sitting drop,0
+7VKL,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+7VSJ,1,peg,PEG/polymer,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7WW3,1,peg,PEG/polymer,missing,basic,ambient,vapor diffusion - hanging drop,0
+7YEW,1,peg,PEG/polymer,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7YEX,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+7YEY,1,peg,PEG/polymer,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+7Z50,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - sitting drop,0
+8DWN,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+8GSG,1,peg,PEG/polymer,mid,mildly basic,cold,vapor diffusion - sitting drop,0
+8HSK,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - sitting drop,0
+8IVD,1,peg,PEG/polymer,missing,neutral,ambient,vapor diffusion - hanging drop,0
+8ONI,1,peg,PEG/polymer,very high,mildly basic,ambient,vapor diffusion - sitting drop,0
+8ONK,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+8PI4,1,peg,PEG/polymer,missing,basic,ambient,vapor diffusion - sitting drop,0
+8PI5,1,peg,PEG/polymer,missing,basic,ambient,vapor diffusion - sitting drop,0
+8PYI,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - unspecified,0
+8TKT,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - sitting drop,0
+8TKU,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - sitting drop,0
+8VCY,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+8VD0,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+8VD2,1,peg,PEG/polymer,low-mid,mildly basic,ambient,vapor diffusion - hanging drop,0
+8VDU,1,peg,PEG/polymer,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+8Z4B,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - sitting drop,0
+9CIV,1,peg,PEG/polymer,missing,missing,ambient,microbatch,0
+9UTJ,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - sitting drop,0
+9UTK,1,peg,PEG/polymer,missing,missing,ambient,vapor diffusion - sitting drop,0
+1G1F,1,dtt,Organic ligands/additives,missing,mildly basic,warm,vapor diffusion - hanging drop,0
+1G1G,1,dtt,Organic ligands/additives,missing,neutral,warm,vapor diffusion - hanging drop,0
+1G1H,1,dtt,Organic ligands/additives,missing,mildly basic,warm,vapor diffusion - hanging drop,0
+1I44,1,dtt,Organic ligands/additives,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+3O23,1,dtt,Organic ligands/additives,trace-low,neutral,ambient,vapor diffusion - hanging drop,0
+4XLV,1,dtt,Organic ligands/additives,trace-low,mildly basic,cold,vapor diffusion - hanging drop,0
+5E1S,1,dtt,Organic ligands/additives,trace-low,neutral,ambient,vapor diffusion - hanging drop,0
+5WRL,1,dtt,Organic ligands/additives,low-mid,neutral,ambient,vapor diffusion - hanging drop,0
+5WRM,1,dtt,Organic ligands/additives,low-mid,missing,ambient,vapor diffusion - hanging drop,0
+3ZU1,1,2-propanol,Neutral solvents/polyols,missing,missing,missing,missing,0
+6S34,1,2-propanol,Neutral solvents/polyols,missing,missing,missing,missing,0
+7Z5L,1,2-propanol,Neutral solvents/polyols,high,mildly basic,ambient,vapor diffusion - hanging drop,0
+7Z5Q,1,2-propanol,Neutral solvents/polyols,high,mildly basic,ambient,vapor diffusion - hanging drop,0
+8WU0,1,2-propanol,Neutral solvents/polyols,missing,missing,missing,missing,0
+1B9E,1,acetone,Neutral solvents/polyols,missing,missing,missing,missing,0
+1EV3,1,acetone,Neutral solvents/polyols,high,basic,ambient,slow cooling,0
+1G7A,1,acetone,Neutral solvents/polyols,missing,mildly acidic,ambient,slow cooling,1
+1G7B,1,acetone,Neutral solvents/polyols,missing,mildly acidic,ambient,slow cooling,1
+1J73,1,acetone,Neutral solvents/polyols,missing,missing,missing,missing,0
+1JCA,1,acetone,Neutral solvents/polyols,missing,missing,missing,missing,0
+1M5A,1,acetone,Neutral solvents/polyols,missing,mildly acidic,warm,slow cooling,0
+1MSO,1,acetone,Neutral solvents/polyols,missing,mildly acidic,ambient,slow cooling,0
+1OS3,1,acetone,Neutral solvents/polyols,missing,mildly acidic,ambient,slow cooling,0
+1OS4,1,acetone,Neutral solvents/polyols,missing,mildly acidic,ambient,slow cooling,0
+1Q4V,1,acetone,Neutral solvents/polyols,missing,missing,missing,missing,0
+1QJ0,1,acetone,Neutral solvents/polyols,high,neutral,missing,batch,0
+1RWE,1,acetone,Neutral solvents/polyols,missing,missing,missing,missing,0
+1XW7,1,acetone,Neutral solvents/polyols,missing,missing,missing,missing,0
+2A3G,1,acetone,Neutral solvents/polyols,missing,mildly acidic,ambient,slow cooling,0
+2QIU,1,acetone,Neutral solvents/polyols,missing,missing,missing,missing,0
+2R35,1,acetone,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+2ZP6,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+3BXQ,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+3EXX,1,acetone,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+3FHP,1,acetone,Neutral solvents/polyols,missing,mildly acidic,ambient,liquid diffusion,0
+3FQ9,1,acetone,Neutral solvents/polyols,missing,missing,missing,missing,0
+3GKY,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+3JSD,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - unspecified,0
+3KQ6,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - unspecified,0
+3RTO,1,acetone,Neutral solvents/polyols,very high,mildly acidic,missing,small tubes,0
+3TT8,1,acetone,Neutral solvents/polyols,trace-low,mildly acidic,missing,vapor diffusion - hanging drop,0
+3V19,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - unspecified,0
+3V1G,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - unspecified,0
+4E7T,1,acetone,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4E7U,1,acetone,Neutral solvents/polyols,missing,mildly acidic,ambient,batch,0
+4E7V,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+4M4F,1,acetone,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4M4H,1,acetone,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4M4I,1,acetone,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4M4J,1,acetone,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4M4L,1,acetone,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4M4M,1,acetone,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4RXW,1,acetone,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+5E7W,1,acetone,Neutral solvents/polyols,high,mildly acidic,ambient,batch,0
+5HPR,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+5HRQ,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+5UQA,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - hanging drop,1
+5URU,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+5USS,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+5UU3,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+5UU4,1,acetone,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+6TYH,1,acetone,Neutral solvents/polyols,missing,missing,ambient,vapor diffusion - sitting drop,1
+7JP3,1,acetone,Neutral solvents/polyols,missing,missing,ambient,vapor diffusion - hanging drop,0
+7S4Y,1,acetone,Neutral solvents/polyols,missing,missing,ambient,batch,0
+1ZT3,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+1ZT5,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+2G48,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+2G49,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+2G54,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+2G56,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+2WBY,1,dioxane,Neutral solvents/polyols,missing,neutral,missing,unspecified/other,0
+3CWW,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+3E4A,1,dioxane,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3E4Z,1,dioxane,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3H44,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+3N56,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+3N57,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+3OFI,1,dioxane,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3QZ2,1,dioxane,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4DTT,1,dioxane,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4DWK,1,dioxane,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4GS8,1,dioxane,Neutral solvents/polyols,missing,neutral,missing,vapor diffusion - hanging drop,0
+4GSC,1,dioxane,Neutral solvents/polyols,missing,neutral,missing,vapor diffusion - hanging drop,0
+4GSF,1,dioxane,Neutral solvents/polyols,missing,neutral,missing,vapor diffusion - hanging drop,0
+4IFH,1,dioxane,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4LTE,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+4NXO,1,dioxane,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4QIA,1,dioxane,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+4RAL,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+4RE9,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+5BOQ,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+6BYZ,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+6EDS,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+6MQ3,1,dioxane,Neutral solvents/polyols,missing,missing,missing,missing,0
+7K1D,1,dioxane,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+7K1E,1,dioxane,Neutral solvents/polyols,missing,missing,ambient,vapor diffusion - hanging drop,0
+7K1F,1,dioxane,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+8PI5,1,dioxane,Neutral solvents/polyols,missing,basic,ambient,vapor diffusion - sitting drop,0
+1HTV,1,dmf,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3W7Y,1,dmf,Neutral solvents/polyols,missing,basic,ambient,vapor diffusion - hanging drop,0
+3W7Z,1,dmf,Neutral solvents/polyols,missing,basic,ambient,vapor diffusion - hanging drop,0
+3W80,1,dmf,Neutral solvents/polyols,missing,basic,ambient,vapor diffusion - hanging drop,0
+1EV6,1,ethanol,Neutral solvents/polyols,high,neutral,ambient,slow cooling,0
+1TGR,1,ethanol,Neutral solvents/polyols,missing,missing,missing,missing,0
+1ZEG,1,ethanol,Neutral solvents/polyols,very high,neutral,missing,batch,0
+1ZEH,1,ethanol,Neutral solvents/polyols,very high,neutral,missing,batch,0
+2OLZ,1,ethanol,Neutral solvents/polyols,missing,missing,missing,missing,0
+2OM1,1,ethanol,Neutral solvents/polyols,missing,missing,missing,missing,0
+2W44,1,ethanol,Neutral solvents/polyols,mid,missing,missing,missing,0
+4AJZ,1,ethanol,Neutral solvents/polyols,missing,missing,missing,missing,0
+9IBB,1,ethanol,Neutral solvents/polyols,missing,mildly basic,ambient,batch,0
+1IR3,1,ethylene glycol,Neutral solvents/polyols,missing,mildly basic,missing,unspecified/other,0
+1M7N,1,ethylene glycol,Neutral solvents/polyols,missing,basic,cold,vapor diffusion - sitting drop,0
+1P4O,1,ethylene glycol,Neutral solvents/polyols,missing,basic,cold,vapor diffusion - sitting drop,0
+2BN1,1,ethylene glycol,Neutral solvents/polyols,missing,missing,missing,missing,0
+2BN3,1,ethylene glycol,Neutral solvents/polyols,missing,missing,missing,missing,0
+3WS3,1,ethylene glycol,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - sitting drop,0
+4IBM,1,ethylene glycol,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - unspecified,0
+5LIS,1,ethylene glycol,Neutral solvents/polyols,missing,missing,missing,missing,0
+7QGF,1,ethylene glycol,Neutral solvents/polyols,missing,missing,missing,missing,0
+8Z4B,1,ethylene glycol,Neutral solvents/polyols,missing,missing,ambient,vapor diffusion - sitting drop,0
+1P4O,1,glycerol,Neutral solvents/polyols,mid,basic,cold,vapor diffusion - sitting drop,0
+3LVP,1,glycerol,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+3O23,1,glycerol,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+3ZXB,1,glycerol,Neutral solvents/polyols,missing,mildly basic,missing,unspecified/other,0
+4EWW,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EWX,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EWZ,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EX0,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EX1,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EXX,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EY1,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EY9,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EYD,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EYN,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4EYP,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F0N,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F0O,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1A,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1B,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1C,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1D,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1F,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F1G,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F4T,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F4V,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F51,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4F8F,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4FG3,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,1
+4GBK,1,glycerol,Neutral solvents/polyols,missing,basic,ambient,vapor diffusion - hanging drop,0
+4GBL,1,glycerol,Neutral solvents/polyols,missing,basic,ambient,vapor diffusion - hanging drop,0
+4XST,1,glycerol,Neutral solvents/polyols,very high,missing,ambient,vapor diffusion - hanging drop,0
+5HZN,1,glycerol,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+5WRL,1,glycerol,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - hanging drop,0
+5WRM,1,glycerol,Neutral solvents/polyols,missing,missing,ambient,vapor diffusion - hanging drop,0
+7QHP,1,glycerol,Neutral solvents/polyols,missing,missing,ambient,vapor diffusion - sitting drop,1
+1LK2,1,mpd,Neutral solvents/polyols,missing,neutral,ambient,vapor diffusion - sitting drop,1
+1WDZ,1,mpd,Neutral solvents/polyols,missing,basic,ambient,vapor diffusion - hanging drop,0
+2V5P,1,mpd,Neutral solvents/polyols,missing,basic,missing,unspecified/other,0
+3HYD,1,mpd,Neutral solvents/polyols,missing,mildly acidic,ambient,vapor diffusion - hanging drop,0
+4CXL,1,mpd,Neutral solvents/polyols,missing,mildly basic,missing,unspecified/other,0
+4CXN,1,mpd,Neutral solvents/polyols,missing,mildly basic,missing,unspecified/other,0
+5EN9,1,mpd,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+5ENA,1,mpd,Neutral solvents/polyols,missing,mildly basic,ambient,vapor diffusion - hanging drop,0
+8AYG,1,mpd,Neutral solvents/polyols,missing,mildly acidic,cold,vapor diffusion - hanging drop,0
+8GSG,1,mpd,Neutral solvents/polyols,missing,mildly basic,cold,vapor diffusion - sitting drop,0
+8RRP,1,mpd,Neutral solvents/polyols,mid,acidic,ambient,vapor diffusion - hanging drop,0
+9UTJ,1,mpd,Neutral solvents/polyols,missing,missing,ambient,vapor diffusion - sitting drop,0
+9UTK,1,mpd,Neutral solvents/polyols,missing,missing,ambient,vapor diffusion - sitting drop,0

@@ -1,0 +1,162 @@
+protein,species_name,species_class,n_condition,n_retained,raw_retention_efficiency,p0_protein,P_shrink,support_flag,median_pH_retained,median_concentration_bin
+insulin,zinc,Metal/cations,69,60,0.8695652173913043,0.1337126600284495,0.7764193240542341,robust,8.0,trace-low
+insulin,phenol,Organic ligands/additives,41,35,0.8536585365853658,0.1337126600284495,0.7124926784369509,robust,8.0,very high
+insulin,cresol,Organic ligands/additives,8,8,1.0,0.1337126600284495,0.5187292555713608,low_support,7.5,high
+insulin,copper,Metal/cations,6,6,1.0,0.1337126600284495,0.45857041251778097,low_support,7.1,trace-low
+insulin,sulfate,Anions,35,18,0.5142857142857142,0.1337126600284495,0.42971392445076656,robust,7.5,high
+insulin,nickel,Metal/cations,4,4,1.0,0.1337126600284495,0.3812233285917497,low_support,6.75,low-mid
+insulin,cobalt,Metal/cations,2,2,1.0,0.1337126600284495,0.27809388335704127,exploratory,6.35,trace-low
+insulin,chloride,Anions,28,8,0.2857142857142857,0.1337126600284495,0.24571385790222355,robust,6.7,mid
+insulin,manganese,Metal/cations,1,1,1.0,0.1337126600284495,0.21246605457131773,exploratory,,high
+insulin,nitrate,Anions,1,1,1.0,0.1337126600284495,0.21246605457131773,exploratory,8.5,very high
+insulin,calcium,Metal/cations,12,3,0.25,0.1337126600284495,0.1971421181947498,moderate,7.5,mid
+insulin,magnesium,Metal/cations,42,6,0.14285714285714285,0.1337126600284495,0.14109858846700954,robust,7.0,mid
+insulin,formate,Anions,9,1,0.1111111111111111,0.1337126600284495,0.12300666317286817,low_support,,mid
+insulin,chaps,Organic ligands/additives,1,0,0.0,0.1337126600284495,0.12155696366222682,exploratory,,missing
+insulin,iodide,Anions,2,0,0.0,0.1337126600284495,0.11142721669037459,exploratory,,mid
+insulin,mpd,Neutral solvents/polyols,13,1,0.07692307692307693,0.1337126600284495,0.10161420001236934,moderate,6.5,mid
+insulin,phosphate,Anions,73,7,0.0958904109589041,0.1337126600284495,0.1004473084371626,robust,6.16,mid
+insulin,dmf,Neutral solvents/polyols,4,0,0.0,0.1337126600284495,0.09550904287746394,low_support,,missing
+insulin,2-propanol,Neutral solvents/polyols,5,0,0.0,0.1337126600284495,0.08914177335229967,low_support,,high
+insulin,lithium,Metal/cations,5,0,0.0,0.1337126600284495,0.08914177335229967,low_support,,mid
+insulin,tartrate,Anions,5,0,0.0,0.1337126600284495,0.08914177335229967,low_support,,mid
+insulin,acetone,Neutral solvents/polyols,50,4,0.08,0.1337126600284495,0.0889521100047416,robust,6.3,high
+insulin,malate,Anions,6,0,0.0,0.1337126600284495,0.08357041251778094,low_support,,mid
+insulin,glycerol,Neutral solvents/polyols,35,2,0.05714285714285714,0.1337126600284495,0.074158368895211,robust,5.5,high
+insulin,sodium,Metal/cations,236,16,0.06779661016949153,0.1337126600284495,0.07047612439140039,robust,6.7,mid
+insulin,dtt,Organic ligands/additives,9,0,0.0,0.1337126600284495,0.07037508422549973,low_support,,trace-low
+insulin,ethanol,Neutral solvents/polyols,9,0,0.0,0.1337126600284495,0.07037508422549973,low_support,,very high
+insulin,ethylene glycol,Neutral solvents/polyols,10,0,0.0,0.1337126600284495,0.06685633001422475,moderate,,missing
+insulin,bis-tris,Organic ligands/additives,13,0,0.0,0.1337126600284495,0.058135939142804134,moderate,,mid
+insulin,imidazole,Organic ligands/additives,13,0,0.0,0.1337126600284495,0.058135939142804134,moderate,,mid
+insulin,cacodylate,Organic ligands/additives,14,0,0.0,0.1337126600284495,0.05571360834518729,moderate,,mid
+insulin,acetate,Anions,104,5,0.04807692307692308,0.1337126600284495,0.05558882982705698,robust,6.3,low-mid
+insulin,mes,Organic ligands/additives,16,0,0.0,0.1337126600284495,0.05142794616478827,moderate,,mid
+insulin,potassium,Metal/cations,22,0,0.0,0.1337126600284495,0.04178520625889047,robust,,mid
+insulin,dioxane,Neutral solvents/polyols,34,0,0.0,0.1337126600284495,0.030389240915556705,robust,,missing
+insulin,ammonium,Metal/cations,46,0,0.0,0.1337126600284495,0.023877260719365984,robust,,high
+insulin,hepes,Organic ligands/additives,76,0,0.0,0.1337126600284495,0.015547983724238315,robust,,mid
+insulin,tris,Organic ligands/additives,107,0,0.0,0.1337126600284495,0.01142843248106406,robust,,mid
+insulin,peg,PEG/polymer,115,0,0.0,0.1337126600284495,0.01069701280227596,robust,,mid
+insulin,citrate,Anions,125,0,0.0,0.1337126600284495,0.009904641483588852,robust,,mid
+lysozyme,nitrate,Anions,82,66,0.8048780487804879,0.3226389516493448,0.7524607556140591,robust,4.5,mid
+lysozyme,ethylene glycol,Neutral solvents/polyols,134,91,0.6791044776119403,0.3226389516493448,0.6543499271978711,robust,4.5,mid
+lysozyme,chloride,Anions,401,232,0.5785536159600998,0.3226389516493448,0.5723269817919548,robust,4.6,high
+lysozyme,sodium,Metal/cations,1347,744,0.5523385300668151,0.3226389516493448,0.5506458286783297,robust,4.5,high
+lysozyme,iodide,Anions,4,4,1.0,0.3226389516493448,0.516170679749532,low_support,6.75,mid
+lysozyme,sulfate,Anions,71,36,0.5070422535211268,0.3226389516493448,0.4842764137838697,robust,6.5,mid
+lysozyme,cesium,Metal/cations,5,3,0.6,0.3226389516493448,0.41509263443289657,low_support,4.5,very high
+lysozyme,cobalt,Metal/cations,3,2,0.6666666666666666,0.3226389516493448,0.40202996280718833,low_support,7.0,trace-low
+lysozyme,calcium,Metal/cations,19,8,0.42105263157894735,0.3226389516493448,0.38711687987908444,moderate,6.5,mid
+lysozyme,bromide,Anions,1,1,1.0,0.3226389516493448,0.38421722877213166,exploratory,4.6,high
+lysozyme,acetone,Neutral solvents/polyols,1,0,0.0,0.3226389516493448,0.2933081378630407,exploratory,,missing
+lysozyme,ionic liquid,IL/DES,1,0,0.0,0.3226389516493448,0.2933081378630407,exploratory,,missing
+lysozyme,nickel,Metal/cations,1,0,0.0,0.3226389516493448,0.2933081378630407,exploratory,,trace-low
+lysozyme,cadmium,Metal/cations,2,0,0.0,0.3226389516493448,0.2688657930411207,exploratory,,missing
+lysozyme,dioxane,Neutral solvents/polyols,2,0,0.0,0.3226389516493448,0.2688657930411207,exploratory,,missing
+lysozyme,ethylammonium nitrate,IL/DES,2,0,0.0,0.3226389516493448,0.2688657930411207,exploratory,,missing
+lysozyme,phosphate,Anions,231,60,0.2597402597402597,0.3226389516493448,0.26235016396885247,robust,7.4,very high
+lysozyme,mpd,Neutral solvents/polyols,34,8,0.23529411764705882,0.3226389516493448,0.255145216283942,robust,5.0,mid
+lysozyme,ethanol,Neutral solvents/polyols,3,0,0.0,0.3226389516493448,0.24818380896103448,low_support,,very high
+lysozyme,malate,Anions,3,0,0.0,0.3226389516493448,0.24818380896103448,low_support,,mid
+lysozyme,zinc,Metal/cations,3,0,0.0,0.3226389516493448,0.24818380896103448,low_support,,low-mid
+lysozyme,magnesium,Metal/cations,28,6,0.21428571428571427,0.3226389516493448,0.24279972411824863,robust,7.25,mid
+lysozyme,formate,Anions,45,9,0.2,0.3226389516493448,0.22229799120897178,robust,7.25,high
+lysozyme,2-propanol,Neutral solvents/polyols,38,5,0.13157894736842105,0.3226389516493448,0.17138311492694683,robust,5.3,low-mid
+lysozyme,potassium,Metal/cations,87,12,0.13793103448275862,0.3226389516493448,0.15697308779890154,robust,6.75,very high
+lysozyme,acetate,Anions,852,125,0.1467136150234742,0.3226389516493448,0.1487545122001084,robust,4.5,mid
+lysozyme,cacodylate,Organic ligands/additives,12,0,0.0,0.3226389516493448,0.14665406893152036,moderate,,mid
+lysozyme,imidazole,Organic ligands/additives,13,0,0.0,0.3226389516493448,0.14027780506493254,moderate,,mid
+lysozyme,glycerol,Neutral solvents/polyols,103,12,0.11650485436893204,0.3226389516493448,0.134746809880473,robust,4.7,mid
+lysozyme,tartrate,Anions,16,0,0.0,0.3226389516493448,0.12409190448051724,moderate,,mid
+lysozyme,bis-tris,Organic ligands/additives,22,0,0.0,0.3226389516493448,0.10082467239042026,robust,,mid
+lysozyme,citrate,Anions,66,4,0.06060606060606061,0.3226389516493448,0.0950840725854401,robust,6.0,mid
+lysozyme,mes,Organic ligands/additives,26,0,0.0,0.3226389516493448,0.0896219310137069,robust,,mid
+lysozyme,lithium,Metal/cations,34,0,0.0,0.3226389516493448,0.07332703446576018,robust,,mid
+lysozyme,hepes,Organic ligands/additives,93,0,0.0,0.3226389516493448,0.03132417006304319,robust,,mid
+lysozyme,tris,Organic ligands/additives,103,0,0.0,0.3226389516493448,0.028552119614986268,robust,,mid
+lysozyme,ammonium,Metal/cations,115,0,0.0,0.3226389516493448,0.025811116131947587,robust,,mid
+lysozyme,peg,PEG/polymer,423,0,0.0,0.3226389516493448,0.007451245996520666,robust,,mid
+proteinase k,sulfate,Anions,94,87,0.925531914893617,0.28689883913764513,0.8641248883786197,robust,8.0,high
+proteinase k,calcium,Metal/cations,63,58,0.9206349206349206,0.28689883913764513,0.8338217587859788,robust,6.5,low-mid
+proteinase k,nitrate,Anions,20,16,0.8,0.28689883913764513,0.6289662797125484,robust,7.5,high
+proteinase k,glycerol,Neutral solvents/polyols,7,6,0.8571428571428571,0.28689883913764513,0.5217051994927324,low_support,7.5,mid
+proteinase k,ethylene glycol,Neutral solvents/polyols,2,2,1.0,0.28689883913764513,0.40574903261470424,exploratory,,high
+proteinase k,ethanol,Neutral solvents/polyols,1,0,0.0,0.28689883913764513,0.26081712648876826,exploratory,,missing
+proteinase k,magnesium,Metal/cations,1,0,0.0,0.28689883913764513,0.26081712648876826,exploratory,,very high
+proteinase k,potassium,Metal/cations,1,0,0.0,0.28689883913764513,0.26081712648876826,exploratory,,high
+proteinase k,bis-tris,Organic ligands/additives,3,0,0.0,0.28689883913764513,0.22069141472126547,low_support,,mid
+proteinase k,peg,PEG/polymer,7,0,0.0,0.28689883913764513,0.1687640230221442,low_support,,missing
+proteinase k,citrate,Anions,8,0,0.0,0.28689883913764513,0.1593882439653584,low_support,,mid
+proteinase k,cacodylate,Organic ligands/additives,10,0,0.0,0.28689883913764513,0.14344941956882257,moderate,,mid
+proteinase k,acetate,Anions,12,0,0.0,0.28689883913764513,0.13040856324438413,moderate,,mid
+proteinase k,tartrate,Anions,16,0,0.0,0.28689883913764513,0.11034570736063273,moderate,,very high
+proteinase k,chloride,Anions,29,1,0.034482758620689655,0.28689883913764513,0.09920483054811413,robust,6.6,low-mid
+proteinase k,mes,Organic ligands/additives,20,0,0.0,0.28689883913764513,0.09563294637921503,robust,,mid
+proteinase k,hepes,Organic ligands/additives,22,0,0.0,0.28689883913764513,0.0896558872305141,robust,,very high
+proteinase k,sodium,Metal/cations,68,3,0.04411764705882353,0.28689883913764513,0.07524344091508271,robust,6.5,high
+proteinase k,tris,Organic ligands/additives,109,0,0.0,0.28689883913764513,0.024109146146020596,robust,,mid
+proteinase k,ammonium,Metal/cations,110,0,0.0,0.28689883913764513,0.023908236594803758,robust,,high
+ribonuclease,sulfate,Anions,284,171,0.602112676056338,0.1621537503890445,0.5871480867479266,robust,6.0,mid
+ribonuclease,glycerol,Neutral solvents/polyols,104,64,0.6153846153846154,0.1621537503890445,0.5756275219639513,robust,6.5,mid
+ribonuclease,iodide,Anions,9,9,1.0,0.1621537503890445,0.5590282896784444,low_support,6.5,mid
+ribonuclease,manganese,Metal/cations,6,6,1.0,0.1621537503890445,0.4763460939931528,low_support,7.0,low-mid
+ribonuclease,magnesium,Metal/cations,177,82,0.4632768361581921,0.1621537503890445,0.44717399734700775,robust,6.5,low-mid
+ribonuclease,zinc,Metal/cations,6,5,0.8333333333333334,0.1621537503890445,0.4138460939931528,low_support,7.0,low-mid
+ribonuclease,calcium,Metal/cations,101,42,0.4158415841584158,0.1621537503890445,0.3929868243593734,robust,4.2,low-mid
+ribonuclease,ethylene glycol,Neutral solvents/polyols,18,8,0.4444444444444444,0.1621537503890445,0.3436263394246587,moderate,6.25,high
+ribonuclease,phosphate,Anions,51,17,0.3333333333333333,0.1621537503890445,0.3052711066211548,robust,6.0,low-mid
+ribonuclease,chloride,Anions,124,36,0.2903225806451613,0.1621537503890445,0.2807577425663466,robust,6.0,high
+ribonuclease,cadmium,Metal/cations,3,2,0.6666666666666666,0.1621537503890445,0.27857980799157267,low_support,4.6,mid
+ribonuclease,2-propanol,Neutral solvents/polyols,46,12,0.2608695652173913,0.1621537503890445,0.24324174114090077,robust,5.8,low-mid
+ribonuclease,copper,Metal/cations,2,1,0.5,0.1621537503890445,0.21846145865753708,exploratory,5.5,mid
+ribonuclease,potassium,Metal/cations,42,9,0.21428571428571427,0.1621537503890445,0.20426033661327778,robust,,mid
+ribonuclease,formate,Anions,14,3,0.21428571428571427,0.1621537503890445,0.19256406266210188,moderate,7.5,mid
+ribonuclease,methanol,Neutral solvents/polyols,3,0,0.0,0.1621537503890445,0.12473365414541884,low_support,,missing
+ribonuclease,cesium,Metal/cations,12,1,0.08333333333333333,0.1621537503890445,0.11916079563138386,moderate,,very high
+ribonuclease,nitrate,Anions,4,0,0.0,0.1621537503890445,0.11582410742074607,low_support,,mid
+ribonuclease,dioxane,Neutral solvents/polyols,5,0,0.0,0.1621537503890445,0.108102500259363,low_support,,missing
+ribonuclease,ethanol,Neutral solvents/polyols,6,0,0.0,0.1621537503890445,0.10134609399315281,low_support,,trace-low
+ribonuclease,acetate,Anions,175,16,0.09142857142857143,0.1621537503890445,0.09525155407508348,robust,5.2,mid
+ribonuclease,citrate,Anions,196,16,0.08163265306122448,0.1621537503890445,0.08554144419364293,robust,5.6,low-mid
+ribonuclease,lithium,Metal/cations,22,1,0.045454545454545456,0.1621537503890445,0.0819230469965764,robust,,mid
+ribonuclease,tartrate,Anions,12,0,0.0,0.1621537503890445,0.0737062501768384,moderate,,mid
+ribonuclease,dtt,Organic ligands/additives,13,0,0.0,0.1621537503890445,0.07050163060393239,moderate,,low-mid
+ribonuclease,mpd,Neutral solvents/polyols,55,2,0.03636363636363636,0.1621537503890445,0.05571596159831454,robust,7.5,low-mid
+ribonuclease,sodium,Metal/cations,416,18,0.04326923076923077,0.1621537503890445,0.04605994719223109,robust,4.5,mid
+ribonuclease,bis-tris,Organic ligands/additives,38,0,0.0,0.1621537503890445,0.033782031331050934,robust,,mid
+ribonuclease,cacodylate,Organic ligands/additives,41,0,0.0,0.1621537503890445,0.031794853017459705,robust,,mid
+ribonuclease,imidazole,Organic ligands/additives,65,0,0.0,0.1621537503890445,0.0216205000518726,robust,,low-mid
+ribonuclease,hepes,Organic ligands/additives,91,0,0.0,0.1621537503890445,0.016054826771192524,robust,,mid
+ribonuclease,mes,Organic ligands/additives,91,0,0.0,0.1621537503890445,0.016054826771192524,robust,,mid
+ribonuclease,tris,Organic ligands/additives,151,0,0.0,0.1621537503890445,0.010071661514847483,robust,,mid
+ribonuclease,ammonium,Metal/cations,344,0,0.0,0.1621537503890445,0.004580614417769619,robust,,mid
+ribonuclease,peg,PEG/polymer,486,0,0.0,0.1621537503890445,0.0032692288384888004,robust,,mid
+trypsin,calcium,Metal/cations,126,122,0.9682539682539683,0.18741126360624705,0.9108390635004594,robust,7.0,low-mid
+trypsin,sulfate,Anions,316,192,0.6075949367088608,0.18741126360624705,0.5947058669817867,robust,7.5,mid
+trypsin,glycerol,Neutral solvents/polyols,20,15,0.75,0.18741126360624705,0.5624704212020823,robust,7.5,mid
+trypsin,zinc,Metal/cations,4,3,0.75,0.18741126360624705,0.34815090257589076,low_support,5.11,high
+trypsin,ethylene glycol,Neutral solvents/polyols,16,7,0.4375,0.18741126360624705,0.34131202446394115,moderate,7.25,missing
+trypsin,mpd,Neutral solvents/polyols,12,4,0.3333333333333333,0.18741126360624705,0.2670051198210214,moderate,8.75,mid
+trypsin,formate,Anions,6,2,0.3333333333333333,0.18741126360624705,0.2421320397539044,low_support,4.6,very high
+trypsin,magnesium,Metal/cations,89,21,0.23595505617977527,0.18741126360624705,0.23105164278850981,robust,8.0,very high
+trypsin,iodide,Anions,1,0,0.0,0.18741126360624705,0.17037387600567913,exploratory,,mid
+trypsin,malate,Anions,1,0,0.0,0.18741126360624705,0.17037387600567913,exploratory,,mid
+trypsin,dtt,Organic ligands/additives,2,0,0.0,0.18741126360624705,0.15617605300520587,exploratory,,missing
+trypsin,tartrate,Anions,2,0,0.0,0.18741126360624705,0.15617605300520587,exploratory,,high
+trypsin,acetate,Anions,50,6,0.12,0.18741126360624705,0.13123521060104118,robust,5.75,mid
+trypsin,2-propanol,Neutral solvents/polyols,5,0,0.0,0.18741126360624705,0.1249408424041647,low_support,,mid
+trypsin,citrate,Anions,46,4,0.08695652173913043,0.18741126360624705,0.10489486850111554,robust,4.75,mid
+trypsin,sodium,Metal/cations,126,12,0.09523809523809523,0.18741126360624705,0.10201553408869464,robust,7.5,mid
+trypsin,chloride,Anions,48,4,0.08333333333333333,0.18741126360624705,0.1012778040700426,robust,5.8,low-mid
+trypsin,potassium,Metal/cations,33,1,0.030303030303030304,0.18741126360624705,0.06683982874563885,robust,,mid
+trypsin,bis-tris,Organic ligands/additives,23,0,0.0,0.18741126360624705,0.05679129200189304,robust,,low-mid
+trypsin,cacodylate,Organic ligands/additives,24,0,0.0,0.18741126360624705,0.05512095988419031,robust,,mid
+trypsin,mes,Organic ligands/additives,39,0,0.0,0.18741126360624705,0.03824719665433613,robust,,mid
+trypsin,phosphate,Anions,40,0,0.0,0.18741126360624705,0.03748225272124941,robust,,mid
+trypsin,lithium,Metal/cations,82,1,0.012195121951219513,0.18741126360624705,0.03124035473980946,robust,4.6,mid
+trypsin,imidazole,Organic ligands/additives,50,0,0.0,0.18741126360624705,0.031235210601041175,robust,,mid
+trypsin,ammonium,Metal/cations,304,2,0.006578947368421052,0.18741126360624705,0.012337938331409141,robust,6.0,mid
+trypsin,hepes,Organic ligands/additives,153,0,0.0,0.18741126360624705,0.011497623534125586,robust,,mid
+trypsin,tris,Organic ligands/additives,196,0,0.0,0.18741126360624705,0.009097634155643061,robust,,mid
+trypsin,peg,PEG/polymer,299,0,0.0,0.18741126360624705,0.006065089437095374,robust,,mid

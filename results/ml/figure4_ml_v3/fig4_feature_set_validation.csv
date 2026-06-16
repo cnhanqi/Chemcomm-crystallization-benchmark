@@ -1,0 +1,76 @@
+protein,feature_set,metric,mean_score,std_score,n_groups,n_positive,n_negative,model,selected_C,status
+lysozyme,Species class only,ROC-AUC,0.683602079920903,0.014387662487022274,1683,1428,2998,regularized_logistic,0.1,grouped_oof
+lysozyme,Species class only,PR-AUC,0.43704284456098624,0.008080582976472664,1683,1428,2998,regularized_logistic,0.1,grouped_oof
+lysozyme,Species class only,Brier score,0.21917896707283532,0.003483607901032527,1683,1428,2998,regularized_logistic,0.1,grouped_oof
+lysozyme,Species identity only,ROC-AUC,0.8085129875361972,0.006106040917669225,1683,1428,2998,regularized_logistic,10.0,grouped_oof
+lysozyme,Species identity only,PR-AUC,0.5880637302929888,0.01618436766347963,1683,1428,2998,regularized_logistic,10.0,grouped_oof
+lysozyme,Species identity only,Brier score,0.17631370221707526,0.005014260423175148,1683,1428,2998,regularized_logistic,10.0,grouped_oof
+lysozyme,Condition context only,ROC-AUC,0.7193754695861585,0.00986624673333882,1683,1428,2998,regularized_logistic,10.0,grouped_oof
+lysozyme,Condition context only,PR-AUC,0.5195401165170292,0.027130745819116894,1683,1428,2998,regularized_logistic,10.0,grouped_oof
+lysozyme,Condition context only,Brier score,0.2151335831345104,0.005970045777002294,1683,1428,2998,regularized_logistic,10.0,grouped_oof
+lysozyme,Species + class,ROC-AUC,0.8087396557475254,0.005773989728178322,1683,1428,2998,regularized_logistic,10.0,grouped_oof
+lysozyme,Species + class,PR-AUC,0.5884370390275478,0.015401495706202797,1683,1428,2998,regularized_logistic,10.0,grouped_oof
+lysozyme,Species + class,Brier score,0.17632289233936088,0.004904698369905775,1683,1428,2998,regularized_logistic,10.0,grouped_oof
+lysozyme,Full model,ROC-AUC,0.8466428308897035,0.009127237308324643,1683,1428,2998,regularized_logistic,10.0,grouped_oof
+lysozyme,Full model,PR-AUC,0.677887310720623,0.01187306022411875,1683,1428,2998,regularized_logistic,10.0,grouped_oof
+lysozyme,Full model,Brier score,0.1623508129914958,0.006457778478316376,1683,1428,2998,regularized_logistic,10.0,grouped_oof
+ribonuclease,Species class only,ROC-AUC,0.7624884174765165,0.011239943582827634,963,521,2692,regularized_logistic,1.0,grouped_oof
+ribonuclease,Species class only,PR-AUC,0.30023332479003134,0.012105561829509594,963,521,2692,regularized_logistic,1.0,grouped_oof
+ribonuclease,Species class only,Brier score,0.20712537299584347,0.00787455871456361,963,521,2692,regularized_logistic,1.0,grouped_oof
+ribonuclease,Species identity only,ROC-AUC,0.9052900924236258,0.016021168374204576,963,521,2692,regularized_logistic,10.0,grouped_oof
+ribonuclease,Species identity only,PR-AUC,0.5708776884039277,0.03756698036232453,963,521,2692,regularized_logistic,10.0,grouped_oof
+ribonuclease,Species identity only,Brier score,0.13159318604947987,0.006812871310340606,963,521,2692,regularized_logistic,10.0,grouped_oof
+ribonuclease,Condition context only,ROC-AUC,0.6814659892522621,0.02588798039458919,963,521,2692,regularized_logistic,10.0,grouped_oof
+ribonuclease,Condition context only,PR-AUC,0.28646550127682796,0.017555799934045605,963,521,2692,regularized_logistic,10.0,grouped_oof
+ribonuclease,Condition context only,Brier score,0.22515398046611393,0.004183843243456714,963,521,2692,regularized_logistic,10.0,grouped_oof
+ribonuclease,Species + class,ROC-AUC,0.905568869844196,0.015955675744100603,963,521,2692,regularized_logistic,10.0,grouped_oof
+ribonuclease,Species + class,PR-AUC,0.5711335307184248,0.03764586461302816,963,521,2692,regularized_logistic,10.0,grouped_oof
+ribonuclease,Species + class,Brier score,0.13186641968435509,0.006784524165157283,963,521,2692,regularized_logistic,10.0,grouped_oof
+ribonuclease,Full model,ROC-AUC,0.9242451734038417,0.013600224124359416,963,521,2692,regularized_logistic,10.0,grouped_oof
+ribonuclease,Full model,PR-AUC,0.6843266362632752,0.05150259696033333,963,521,2692,regularized_logistic,10.0,grouped_oof
+ribonuclease,Full model,Brier score,0.11922791243486967,0.008889975368712144,963,521,2692,regularized_logistic,10.0,grouped_oof
+trypsin,Species class only,ROC-AUC,0.7945361453825598,0.01583653574361449,679,396,1717,regularized_logistic,10.0,grouped_oof
+trypsin,Species class only,PR-AUC,0.3762981183838721,0.021309886104254827,679,396,1717,regularized_logistic,10.0,grouped_oof
+trypsin,Species class only,Brier score,0.1943839939294867,0.005783492339334926,679,396,1717,regularized_logistic,10.0,grouped_oof
+trypsin,Species identity only,ROC-AUC,0.948019754086619,0.014097417879814101,679,396,1717,regularized_logistic,10.0,grouped_oof
+trypsin,Species identity only,PR-AUC,0.7768032283508088,0.020608879132769993,679,396,1717,regularized_logistic,10.0,grouped_oof
+trypsin,Species identity only,Brier score,0.08941757931852967,0.010557633365241249,679,396,1717,regularized_logistic,10.0,grouped_oof
+trypsin,Condition context only,ROC-AUC,0.7100525736407588,0.016815364827703714,679,396,1717,regularized_logistic,1.0,grouped_oof
+trypsin,Condition context only,PR-AUC,0.4067909670196884,0.022878060779178897,679,396,1717,regularized_logistic,1.0,grouped_oof
+trypsin,Condition context only,Brier score,0.21028780585155524,0.0025954575305825204,679,396,1717,regularized_logistic,1.0,grouped_oof
+trypsin,Species + class,ROC-AUC,0.9507627400243852,0.011322501294646693,679,396,1717,regularized_logistic,10.0,grouped_oof
+trypsin,Species + class,PR-AUC,0.7778587808955504,0.020485520578382845,679,396,1717,regularized_logistic,10.0,grouped_oof
+trypsin,Species + class,Brier score,0.08973122733207739,0.010514762069580994,679,396,1717,regularized_logistic,10.0,grouped_oof
+trypsin,Full model,ROC-AUC,0.959218000283572,0.013192386962004752,679,396,1717,regularized_logistic,1.0,grouped_oof
+trypsin,Full model,PR-AUC,0.8418351337479398,0.03549784824473057,679,396,1717,regularized_logistic,1.0,grouped_oof
+trypsin,Full model,Brier score,0.07980071341363894,0.009610050097997466,679,396,1717,regularized_logistic,1.0,grouped_oof
+insulin,Species class only,ROC-AUC,0.6697849654946314,0.02430172322212481,417,188,1218,regularized_logistic,0.1,grouped_oof
+insulin,Species class only,PR-AUC,0.19848486410804686,0.013566962142549039,417,188,1218,regularized_logistic,0.1,grouped_oof
+insulin,Species class only,Brier score,0.23064315858262424,0.0034680157377797996,417,188,1218,regularized_logistic,0.1,grouped_oof
+insulin,Species identity only,ROC-AUC,0.9270963950880832,0.01572339887174224,417,188,1218,regularized_logistic,1.0,grouped_oof
+insulin,Species identity only,PR-AUC,0.721271201210754,0.0481592510903936,417,188,1218,regularized_logistic,1.0,grouped_oof
+insulin,Species identity only,Brier score,0.09233317675075181,0.002367421492183823,417,188,1218,regularized_logistic,1.0,grouped_oof
+insulin,Condition context only,ROC-AUC,0.6734233912901593,0.023769463223951154,417,188,1218,regularized_logistic,10.0,grouped_oof
+insulin,Condition context only,PR-AUC,0.24791968105548068,0.033692560280806035,417,188,1218,regularized_logistic,10.0,grouped_oof
+insulin,Condition context only,Brier score,0.22167696175929746,0.007452426475291314,417,188,1218,regularized_logistic,10.0,grouped_oof
+insulin,Species + class,ROC-AUC,0.9291282177894887,0.018903696398527167,417,188,1218,regularized_logistic,1.0,grouped_oof
+insulin,Species + class,PR-AUC,0.7286771031542473,0.04794033101136101,417,188,1218,regularized_logistic,1.0,grouped_oof
+insulin,Species + class,Brier score,0.09202513575273122,0.0017983050666883517,417,188,1218,regularized_logistic,1.0,grouped_oof
+insulin,Full model,ROC-AUC,0.9294392594305514,0.016475069384939714,417,188,1218,regularized_logistic,10.0,grouped_oof
+insulin,Full model,PR-AUC,0.752777135588308,0.03928133457036155,417,188,1218,regularized_logistic,10.0,grouped_oof
+insulin,Full model,Brier score,0.08858973781661414,0.007035214197264486,417,188,1218,regularized_logistic,10.0,grouped_oof
+proteinase k,Species class only,ROC-AUC,0.8071414034616067,0.014987631700758668,197,173,430,regularized_logistic,10.0,grouped_oof
+proteinase k,Species class only,PR-AUC,0.5357973629222024,0.04872346961836961,197,173,430,regularized_logistic,10.0,grouped_oof
+proteinase k,Species class only,Brier score,0.17899083107325695,0.009330148391786435,197,173,430,regularized_logistic,10.0,grouped_oof
+proteinase k,Species identity only,ROC-AUC,0.9773152098260607,0.009006711723025123,197,173,430,regularized_logistic,10.0,grouped_oof
+proteinase k,Species identity only,PR-AUC,0.9086833644462697,0.029519390769873147,197,173,430,regularized_logistic,10.0,grouped_oof
+proteinase k,Species identity only,Brier score,0.03458940417779267,0.01734244415345557,197,173,430,regularized_logistic,10.0,grouped_oof
+proteinase k,Condition context only,ROC-AUC,0.7048027761907563,0.02835079974308186,197,173,430,regularized_logistic,10.0,grouped_oof
+proteinase k,Condition context only,PR-AUC,0.42429885928867284,0.033985392823714364,197,173,430,regularized_logistic,10.0,grouped_oof
+proteinase k,Condition context only,Brier score,0.21920085579631166,0.01797022395045051,197,173,430,regularized_logistic,10.0,grouped_oof
+proteinase k,Species + class,ROC-AUC,0.9782838553487858,0.007595260763145995,197,173,430,regularized_logistic,0.1,grouped_oof
+proteinase k,Species + class,PR-AUC,0.915118784806987,0.03389560978313393,197,173,430,regularized_logistic,0.1,grouped_oof
+proteinase k,Species + class,Brier score,0.07497005762564991,0.006864303441832167,197,173,430,regularized_logistic,0.1,grouped_oof
+proteinase k,Full model,ROC-AUC,0.9760986441932046,0.005679598341635441,197,173,430,regularized_logistic,1.0,grouped_oof
+proteinase k,Full model,PR-AUC,0.9210498523055458,0.03309166685690844,197,173,430,regularized_logistic,1.0,grouped_oof
+proteinase k,Full model,Brier score,0.03786885686156655,0.009512986678033238,197,173,430,regularized_logistic,1.0,grouped_oof

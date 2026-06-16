@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.docx
+*.pdf~
+.env
+.venv/
+venv/
+env/
+.agents/
+.codex/
+

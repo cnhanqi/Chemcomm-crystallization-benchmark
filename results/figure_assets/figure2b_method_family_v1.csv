@@ -1,0 +1,26 @@
+protein,method_group,condition_rows,fraction
+lysozyme,Hanging drop,557,0.33095662507427215
+lysozyme,Sitting drop,186,0.11051693404634581
+lysozyme,Batch,218,0.1295306001188354
+lysozyme,Vapor diffusion / unspecified,500,0.29708853238265004
+lysozyme,Other,222,0.1319073083778966
+ribonuclease,Hanging drop,524,0.5441329179646937
+ribonuclease,Sitting drop,164,0.1703011422637591
+ribonuclease,Batch,18,0.018691588785046728
+ribonuclease,Vapor diffusion / unspecified,250,0.25960539979231567
+ribonuclease,Other,7,0.007268951194184839
+trypsin,Hanging drop,243,0.35787923416789397
+trypsin,Sitting drop,194,0.2857142857142857
+trypsin,Batch,1,0.0014727540500736377
+trypsin,Vapor diffusion / unspecified,239,0.35198821796759944
+trypsin,Other,2,0.0029455081001472753
+insulin,Hanging drop,153,0.3669064748201439
+insulin,Sitting drop,62,0.1486810551558753
+insulin,Batch,22,0.05275779376498801
+insulin,Vapor diffusion / unspecified,167,0.40047961630695444
+insulin,Other,13,0.03117505995203837
+proteinase k,Hanging drop,51,0.25888324873096447
+proteinase k,Sitting drop,76,0.38578680203045684
+proteinase k,Batch,25,0.12690355329949238
+proteinase k,Vapor diffusion / unspecified,42,0.2131979695431472
+proteinase k,Other,3,0.015228426395939087

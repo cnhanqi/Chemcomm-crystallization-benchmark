@@ -1,0 +1,46 @@
+protein,species_name,condition_entries,retained_entries,median_solvent_content,median_resolution,retention_rate
+insulin,sodium,231,16,39.875,1.82,0.06926406926406926
+insulin,zinc,64,60,39.129999999999995,1.8,0.9375
+insulin,ammonium,46,0,53.34,2.25,0.0
+insulin,magnesium,42,6,48.715,2.25,0.14285714285714285
+insulin,potassium,17,0,55.18,2.4,0.0
+insulin,calcium,12,3,47.47,2.25,0.25
+insulin,copper,6,6,32.82,1.9,1.0
+insulin,lithium,5,0,42.72,1.95,0.0
+insulin,nickel,4,4,33.724999999999994,1.675,1.0
+insulin,cobalt,2,2,33.025,1.4649999999999999,1.0
+insulin,manganese,1,1,,,1.0
+lysozyme,sodium,1327,724,38.55,1.7,0.5455915599095704
+lysozyme,ammonium,115,0,46.74,1.92,0.0
+lysozyme,potassium,87,12,53.0,1.8,0.13793103448275862
+lysozyme,lithium,34,0,40.879999999999995,1.82,0.0
+lysozyme,magnesium,28,6,42.455,1.865,0.21428571428571427
+lysozyme,calcium,19,8,41.95,2.0,0.42105263157894735
+lysozyme,cesium,5,3,38.51,1.75,0.6
+lysozyme,cobalt,3,2,57.86,1.85,0.6666666666666666
+lysozyme,zinc,3,0,47.75,2.0,0.0
+lysozyme,cadmium,2,0,66.13,2.4,0.0
+lysozyme,nickel,1,0,57.96,3.2,0.0
+proteinase k,ammonium,107,0,39.85,1.17,0.0
+proteinase k,sodium,68,3,42.09,1.6,0.04411764705882353
+proteinase k,calcium,63,58,41.85,1.6,0.9206349206349206
+proteinase k,magnesium,1,0,43.6,2.1,0.0
+proteinase k,potassium,1,0,,,0.0
+ribonuclease,sodium,415,18,46.49,1.77,0.043373493975903614
+ribonuclease,ammonium,344,0,55.894999999999996,2.1,0.0
+ribonuclease,magnesium,177,82,56.144999999999996,2.53,0.4632768361581921
+ribonuclease,calcium,101,42,49.46,1.52,0.4158415841584158
+ribonuclease,potassium,42,9,49.84,1.97,0.21428571428571427
+ribonuclease,lithium,22,1,59.92,2.5,0.045454545454545456
+ribonuclease,cesium,12,1,41.785,2.035,0.08333333333333333
+ribonuclease,manganese,6,6,53.155,1.815,1.0
+ribonuclease,zinc,6,5,43.295,1.845,0.8333333333333334
+ribonuclease,cadmium,3,2,64.49,1.6,0.6666666666666666
+ribonuclease,copper,2,1,41.864999999999995,1.645,0.5
+trypsin,ammonium,303,2,45.495000000000005,1.5,0.006600660066006601
+trypsin,calcium,126,122,41.825,1.45,0.9682539682539683
+trypsin,sodium,126,12,46.47,1.7,0.09523809523809523
+trypsin,magnesium,89,21,58.105000000000004,1.5,0.23595505617977527
+trypsin,lithium,82,1,45.63,1.7,0.012195121951219513
+trypsin,potassium,33,1,45.34,1.5,0.030303030303030304
+trypsin,zinc,4,3,31.4,1.33,0.75

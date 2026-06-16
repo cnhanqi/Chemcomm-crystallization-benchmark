@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "data/benchmark_tables/pdb_core_model_proteins_species_entry_status_v3.csv",
+    "data/benchmark_tables/pdb_core_model_proteins_condition_species_inventory_v2.csv",
+    "data/benchmark_tables/pdb_core_model_proteins_explicit_nonpolymer_inventory_v2.csv"
+  ],
+  "output_file": "data/ml/species_aware_screening_ml_v2.csv",
+  "row_count": 11761,
+  "unique_group_count": 3939,
+  "unique_species_group_count": 11761,
+  "id_columns": [
+    "group_id",
+    "species_group_id",
+    "pdb_id",
+    "crystal_id"
+  ],
+  "feature_columns": [
+    "protein",
+    "species_name",
+    "species_major_class",
+    "species_minor_class",
+    "species_role_class",
+    "is_ion_like",
+    "is_anion",
+    "is_cation",
+    "is_metal_cation",
+    "is_monovalent_cation",
+    "is_divalent_cation",
+    "is_screen_relevant_anion",
+    "is_buffer_like",
+    "is_solvent_like",
+    "is_polymeric_precipitant",
+    "is_polyol_like",
+    "is_ionic_liquid_or_des",
+    "condition_segment_count",
+    "has_numeric_concentration",
+    "concentration_value_count",
+    "concentration_numeric_min",
+    "concentration_numeric_max",
+    "concentration_numeric_mean",
+    "concentration_unit_primary",
+    "concentration_unit_family",
+    "molar_equivalent_min",
+    "molar_equivalent_max",
+    "molar_equivalent_mean",
+    "concentration_bin",
+    "method_family",
+    "p_h",
+    "temp_k"
+  ],
+  "label_columns": [
+    "observed_in_structure",
+    "observed_in_structure_label",
+    "explicit_entity_present_label",
+    "retained_multicopy_label",
+    "explicit_entity_count",
+    "explicit_compound_count",
+    "solvent_content_percent",
+    "solvent_content_regime",
+    "matthews_density",
+    "resolution_high_a",
+    "resolution_regime",
+    "space_group_hm"
+  ],
+  "recommended_classification_targets": {
+    "primary": [
+      "observed_in_structure_label",
+      "explicit_entity_present_label"
+    ],
+    "secondary": [
+      "solvent_content_regime",
+      "resolution_regime"
+    ],
+    "exploratory_only": [
+      "retained_multicopy_label"
+    ]
+  },
+  "recommended_regression_targets": [
+    "solvent_content_percent",
+    "matthews_density",
+    "resolution_high_a",
+    "explicit_entity_count",
+    "explicit_compound_count"
+  ],
+  "recommended_ranking_tasks": [
+    "protein-conditioned species ranking by retained-state probability",
+    "protein-conditioned concentration-bin ranking by predicted structural outcome"
+  ],
+  "notes": [
+    "species-aware rows are defined at protein+pdb_id+crystal_id+species_name",
+    "condition concentration is aggregated from condition_species_inventory_v2",
+    "explicit entity count is aggregated at protein+pdb_id+species_name and should be interpreted cautiously where crystal_id multiplicity exists"
+  ]
+}

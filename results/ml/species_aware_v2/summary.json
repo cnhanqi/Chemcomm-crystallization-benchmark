@@ -1,0 +1,12 @@
+{
+  "dataset": "data/ml/species_aware_screening_ml_v2.csv",
+  "n_rows_classification": 11761,
+  "n_rows_regression": 10084,
+  "group_count": 3939,
+  "classification_target": "observed_in_structure_label",
+  "regression_target": "solvent_content_percent",
+  "best_classification_model_combined": "random_forest",
+  "best_regression_model_combined": "random_forest",
+  "best_classification_roc_auc": 0.9557549850033552,
+  "best_regression_r2": 0.45524744601736433
+}

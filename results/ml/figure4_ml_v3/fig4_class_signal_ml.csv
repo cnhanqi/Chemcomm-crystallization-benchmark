@@ -1,0 +1,27 @@
+protein,species_class,mean_P_oof,n_condition,n_modeled,number_of_species,low_support_flag
+insulin,Anions,0.26263853689872635,388,40,10,False
+insulin,Metal/cations,0.4004126437057066,445,98,11,False
+insulin,Small neutral additives,0.18405903085068237,160,7,8,False
+insulin,Organic ligands,0.17058011938032883,298,43,10,False
+insulin,PEG/polymer,0.004164071858414397,115,0,1,False
+lysozyme,Anions,0.42451808682775477,1772,537,11,False
+lysozyme,Metal/cations,0.606358942310299,1644,775,11,False
+lysozyme,Small neutral additives,0.47737376441032736,315,116,7,False
+lysozyme,Organic ligands,0.0016579313179644812,269,0,6,False
+lysozyme,PEG/polymer,0.000899274030386839,423,0,1,False
+lysozyme,IL/DES,0.5203638591037897,3,0,2,True
+proteinase k,Anions,0.635823873458191,179,104,6,False
+proteinase k,Metal/cations,0.2930625513249859,243,61,5,False
+proteinase k,Small neutral additives,0.7468727554995958,10,8,3,False
+proteinase k,Organic ligands,0.021239089510573732,164,0,5,False
+proteinase k,PEG/polymer,0.22172800997846984,7,0,1,True
+ribonuclease,Anions,0.5611471276050207,869,268,9,False
+ribonuclease,Metal/cations,0.2899337782786779,1131,167,11,False
+ribonuclease,Small neutral additives,0.5867697628905444,237,86,7,False
+ribonuclease,Organic ligands,0.0016521857133911379,490,0,7,False
+ribonuclease,PEG/polymer,0.001120863282361321,486,0,1,False
+trypsin,Anions,0.6221628177512536,510,208,9,False
+trypsin,Metal/cations,0.3000902656568856,764,162,7,False
+trypsin,Small neutral additives,0.7016899156015349,53,26,4,False
+trypsin,Organic ligands,0.010323813865711,487,0,7,False
+trypsin,PEG/polymer,0.011547315442664423,299,0,1,False

@@ -1,0 +1,61 @@
+protein,species_name,species_class,rank,n_condition,n_retained,raw_retention_efficiency,P_shrink,support_flag,recommended_for_main_figure
+insulin,zinc,Metal/cations,1,69,60,0.8695652173913043,0.7764193240542341,robust,True
+insulin,phenol,Organic ligands/additives,2,41,35,0.8536585365853658,0.7124926784369509,robust,True
+insulin,cresol,Organic ligands/additives,3,8,8,1.0,0.5187292555713608,low_support,True
+insulin,copper,Metal/cations,4,6,6,1.0,0.45857041251778097,low_support,False
+insulin,sulfate,Anions,5,35,18,0.5142857142857142,0.42971392445076656,robust,True
+insulin,nickel,Metal/cations,6,4,4,1.0,0.3812233285917497,low_support,False
+insulin,chloride,Anions,7,28,8,0.2857142857142857,0.24571385790222355,robust,False
+insulin,calcium,Metal/cations,8,12,3,0.25,0.1971421181947498,moderate,False
+insulin,magnesium,Metal/cations,9,42,6,0.14285714285714285,0.14109858846700954,robust,False
+insulin,formate,Anions,10,9,1,0.1111111111111111,0.12300666317286817,low_support,False
+insulin,mpd,Neutral solvents/polyols,11,13,1,0.07692307692307693,0.10161420001236934,moderate,False
+insulin,phosphate,Anions,12,73,7,0.0958904109589041,0.1004473084371626,robust,False
+lysozyme,nitrate,Anions,1,82,66,0.8048780487804879,0.7524607556140591,robust,True
+lysozyme,ethylene glycol,Neutral solvents/polyols,2,134,91,0.6791044776119403,0.6543499271978711,robust,True
+lysozyme,chloride,Anions,3,401,232,0.5785536159600998,0.5723269817919548,robust,True
+lysozyme,sodium,Metal/cations,4,1347,744,0.5523385300668151,0.5506458286783297,robust,True
+lysozyme,iodide,Anions,5,4,4,1.0,0.516170679749532,low_support,False
+lysozyme,sulfate,Anions,6,71,36,0.5070422535211268,0.4842764137838697,robust,False
+lysozyme,cesium,Metal/cations,7,5,3,0.6,0.41509263443289657,low_support,False
+lysozyme,cobalt,Metal/cations,8,3,2,0.6666666666666666,0.40202996280718833,low_support,False
+lysozyme,calcium,Metal/cations,9,19,8,0.42105263157894735,0.38711687987908444,moderate,False
+lysozyme,phosphate,Anions,10,231,60,0.2597402597402597,0.26235016396885247,robust,False
+lysozyme,mpd,Neutral solvents/polyols,11,34,8,0.23529411764705882,0.255145216283942,robust,False
+lysozyme,ethanol,Neutral solvents/polyols,12,3,0,0.0,0.24818380896103448,low_support,False
+proteinase k,sulfate,Anions,1,94,87,0.925531914893617,0.8641248883786197,robust,True
+proteinase k,calcium,Metal/cations,2,63,58,0.9206349206349206,0.8338217587859788,robust,True
+proteinase k,nitrate,Anions,3,20,16,0.8,0.6289662797125484,robust,True
+proteinase k,glycerol,Neutral solvents/polyols,4,7,6,0.8571428571428571,0.5217051994927324,low_support,True
+proteinase k,bis-tris,Organic ligands/additives,5,3,0,0.0,0.22069141472126547,low_support,False
+proteinase k,peg,PEG/polymer,6,7,0,0.0,0.1687640230221442,low_support,False
+proteinase k,citrate,Anions,7,8,0,0.0,0.1593882439653584,low_support,False
+proteinase k,cacodylate,Organic ligands/additives,8,10,0,0.0,0.14344941956882257,moderate,False
+proteinase k,acetate,Anions,9,12,0,0.0,0.13040856324438413,moderate,False
+proteinase k,tartrate,Anions,10,16,0,0.0,0.11034570736063273,moderate,False
+proteinase k,chloride,Anions,11,29,1,0.034482758620689655,0.09920483054811413,robust,False
+proteinase k,mes,Organic ligands/additives,12,20,0,0.0,0.09563294637921503,robust,False
+ribonuclease,sulfate,Anions,1,284,171,0.602112676056338,0.5871480867479266,robust,True
+ribonuclease,glycerol,Neutral solvents/polyols,2,104,64,0.6153846153846154,0.5756275219639513,robust,True
+ribonuclease,iodide,Anions,3,9,9,1.0,0.5590282896784444,low_support,True
+ribonuclease,manganese,Metal/cations,4,6,6,1.0,0.4763460939931528,low_support,False
+ribonuclease,magnesium,Metal/cations,5,177,82,0.4632768361581921,0.44717399734700775,robust,True
+ribonuclease,zinc,Metal/cations,6,6,5,0.8333333333333334,0.4138460939931528,low_support,False
+ribonuclease,calcium,Metal/cations,7,101,42,0.4158415841584158,0.3929868243593734,robust,False
+ribonuclease,ethylene glycol,Neutral solvents/polyols,8,18,8,0.4444444444444444,0.3436263394246587,moderate,False
+ribonuclease,phosphate,Anions,9,51,17,0.3333333333333333,0.3052711066211548,robust,False
+ribonuclease,chloride,Anions,10,124,36,0.2903225806451613,0.2807577425663466,robust,False
+ribonuclease,cadmium,Metal/cations,11,3,2,0.6666666666666666,0.27857980799157267,low_support,False
+ribonuclease,2-propanol,Neutral solvents/polyols,12,46,12,0.2608695652173913,0.24324174114090077,robust,False
+trypsin,calcium,Metal/cations,1,126,122,0.9682539682539683,0.9108390635004594,robust,True
+trypsin,sulfate,Anions,2,316,192,0.6075949367088608,0.5947058669817867,robust,True
+trypsin,glycerol,Neutral solvents/polyols,3,20,15,0.75,0.5624704212020823,robust,True
+trypsin,zinc,Metal/cations,4,4,3,0.75,0.34815090257589076,low_support,False
+trypsin,ethylene glycol,Neutral solvents/polyols,5,16,7,0.4375,0.34131202446394115,moderate,True
+trypsin,mpd,Neutral solvents/polyols,6,12,4,0.3333333333333333,0.2670051198210214,moderate,False
+trypsin,formate,Anions,7,6,2,0.3333333333333333,0.2421320397539044,low_support,False
+trypsin,magnesium,Metal/cations,8,89,21,0.23595505617977527,0.23105164278850981,robust,False
+trypsin,acetate,Anions,9,50,6,0.12,0.13123521060104118,robust,False
+trypsin,2-propanol,Neutral solvents/polyols,10,5,0,0.0,0.1249408424041647,low_support,False
+trypsin,citrate,Anions,11,46,4,0.08695652173913043,0.10489486850111554,robust,False
+trypsin,sodium,Metal/cations,12,126,12,0.09523809523809523,0.10201553408869464,robust,False

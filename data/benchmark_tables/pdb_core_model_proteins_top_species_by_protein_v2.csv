@@ -1,0 +1,162 @@
+protein,species_name,species_major_class,species_minor_class,condition_entries,retained_entries,retention_rate,protein_rank
+insulin,sodium,ion,cation,231,16,0.06926406926406926,1
+insulin,citrate,organic_ion_or_buffer,anion_or_buffer,125,0,0.0,2
+insulin,peg,polymeric_solvent_or_precipitant,polymer,115,0,0.0,3
+insulin,tris,buffer,buffer,107,0,0.0,4
+insulin,acetate,ion,anion,99,5,0.050505050505050504,5
+insulin,hepes,buffer,buffer,76,0,0.0,6
+insulin,phosphate,ion,anion,68,7,0.10294117647058823,7
+insulin,zinc,ion,cation,64,60,0.9375,8
+insulin,acetone,solvent_or_cosolvent,ketone,50,4,0.08,9
+insulin,ammonium,ion,cation,46,0,0.0,10
+insulin,magnesium,ion,cation,42,6,0.14285714285714285,11
+insulin,phenol,organic_additive,aromatic,41,35,0.8536585365853658,12
+insulin,sulfate,ion,anion,35,18,0.5142857142857142,13
+insulin,glycerol,solvent_or_cosolvent,polyol,35,2,0.05714285714285714,14
+insulin,dioxane,solvent_or_cosolvent,ether,34,0,0.0,15
+insulin,chloride,ion,anion,28,8,0.2857142857142857,16
+insulin,potassium,ion,cation,17,0,0.0,17
+insulin,mes,buffer,buffer,16,0,0.0,18
+insulin,cacodylate,buffer,buffer,14,0,0.0,19
+insulin,mpd,solvent_or_cosolvent,polyol,13,1,0.07692307692307693,20
+insulin,bis-tris,buffer,buffer,13,0,0.0,21
+insulin,imidazole,buffer_or_additive,organic_base,13,0,0.0,22
+insulin,calcium,ion,cation,12,3,0.25,23
+insulin,ethylene glycol,solvent_or_cosolvent,polyol,10,0,0.0,24
+insulin,formate,ion,anion,9,1,0.1111111111111111,25
+insulin,dtt,reducing_agent,thiol,9,0,0.0,26
+insulin,ethanol,solvent_or_cosolvent,alcohol,9,0,0.0,27
+insulin,cresol,organic_additive,aromatic,8,8,1.0,28
+insulin,copper,ion,cation,6,6,1.0,29
+insulin,malate,organic_ion_or_buffer,anion_or_buffer,6,0,0.0,30
+insulin,2-propanol,solvent_or_cosolvent,alcohol,5,0,0.0,31
+insulin,lithium,ion,cation,5,0,0.0,32
+insulin,tartrate,organic_ion_or_buffer,anion_or_buffer,5,0,0.0,33
+insulin,nickel,ion,cation,4,4,1.0,34
+insulin,dmf,solvent_or_cosolvent,amide,4,0,0.0,35
+insulin,cobalt,ion,cation,2,2,1.0,36
+insulin,iodide,ion,anion,2,0,0.0,37
+insulin,manganese,ion,cation,1,1,1.0,38
+insulin,nitrate,ion,anion,1,1,1.0,39
+insulin,chaps,detergent,detergent,1,0,0.0,40
+lysozyme,sodium,ion,cation,1327,724,0.5455915599095704,1
+lysozyme,acetate,ion,anion,832,125,0.1502403846153846,2
+lysozyme,peg,polymeric_solvent_or_precipitant,polymer,402,0,0.0,3
+lysozyme,chloride,ion,anion,401,232,0.5785536159600998,4
+lysozyme,phosphate,ion,anion,231,60,0.2597402597402597,5
+lysozyme,ethylene glycol,solvent_or_cosolvent,polyol,134,91,0.6791044776119403,6
+lysozyme,ammonium,ion,cation,115,0,0.0,7
+lysozyme,glycerol,solvent_or_cosolvent,polyol,103,12,0.11650485436893204,8
+lysozyme,tris,buffer,buffer,102,0,0.0,9
+lysozyme,hepes,buffer,buffer,93,0,0.0,10
+lysozyme,potassium,ion,cation,87,12,0.13793103448275862,11
+lysozyme,nitrate,ion,anion,82,66,0.8048780487804879,12
+lysozyme,sulfate,ion,anion,71,36,0.5070422535211268,13
+lysozyme,citrate,organic_ion_or_buffer,anion_or_buffer,66,4,0.06060606060606061,14
+lysozyme,formate,ion,anion,45,9,0.2,15
+lysozyme,2-propanol,solvent_or_cosolvent,alcohol,38,5,0.13157894736842105,16
+lysozyme,mpd,solvent_or_cosolvent,polyol,34,8,0.23529411764705882,17
+lysozyme,lithium,ion,cation,34,0,0.0,18
+lysozyme,magnesium,ion,cation,28,6,0.21428571428571427,19
+lysozyme,mes,buffer,buffer,26,0,0.0,20
+lysozyme,bis-tris,buffer,buffer,22,0,0.0,21
+lysozyme,calcium,ion,cation,19,8,0.42105263157894735,22
+lysozyme,tartrate,organic_ion_or_buffer,anion_or_buffer,16,0,0.0,23
+lysozyme,imidazole,buffer_or_additive,organic_base,13,0,0.0,24
+lysozyme,cacodylate,buffer,buffer,12,0,0.0,25
+lysozyme,cesium,ion,cation,5,3,0.6,26
+lysozyme,iodide,ion,anion,4,4,1.0,27
+lysozyme,cobalt,ion,cation,3,2,0.6666666666666666,28
+lysozyme,ethanol,solvent_or_cosolvent,alcohol,3,0,0.0,29
+lysozyme,malate,organic_ion_or_buffer,anion_or_buffer,3,0,0.0,30
+lysozyme,zinc,ion,cation,3,0,0.0,31
+lysozyme,cadmium,ion,cation,2,0,0.0,32
+lysozyme,dioxane,solvent_or_cosolvent,ether,2,0,0.0,33
+lysozyme,ethylammonium nitrate,ionic_liquid_or_des,ionic_liquid,2,0,0.0,34
+lysozyme,bromide,ion,anion,1,1,1.0,35
+lysozyme,acetone,solvent_or_cosolvent,ketone,1,0,0.0,36
+lysozyme,ionic liquid,ionic_liquid_or_des,ionic_liquid,1,0,0.0,37
+lysozyme,nickel,ion,cation,1,0,0.0,38
+proteinase k,tris,buffer,buffer,109,0,0.0,1
+proteinase k,ammonium,ion,cation,107,0,0.0,2
+proteinase k,sulfate,ion,anion,91,84,0.9230769230769231,3
+proteinase k,sodium,ion,cation,68,3,0.04411764705882353,4
+proteinase k,calcium,ion,cation,63,58,0.9206349206349206,5
+proteinase k,chloride,ion,anion,29,1,0.034482758620689655,6
+proteinase k,hepes,buffer,buffer,22,0,0.0,7
+proteinase k,nitrate,ion,anion,20,16,0.8,8
+proteinase k,mes,buffer,buffer,20,0,0.0,9
+proteinase k,tartrate,organic_ion_or_buffer,anion_or_buffer,16,0,0.0,10
+proteinase k,acetate,ion,anion,12,0,0.0,11
+proteinase k,citrate,organic_ion_or_buffer,anion_or_buffer,8,0,0.0,12
+proteinase k,cacodylate,buffer,buffer,7,0,0.0,13
+proteinase k,peg,polymeric_solvent_or_precipitant,polymer,7,0,0.0,14
+proteinase k,glycerol,solvent_or_cosolvent,polyol,4,3,0.75,15
+proteinase k,bis-tris,buffer,buffer,3,0,0.0,16
+proteinase k,ethylene glycol,solvent_or_cosolvent,polyol,2,2,1.0,17
+proteinase k,ethanol,solvent_or_cosolvent,alcohol,1,0,0.0,18
+proteinase k,magnesium,ion,cation,1,0,0.0,19
+proteinase k,potassium,ion,cation,1,0,0.0,20
+ribonuclease,peg,polymeric_solvent_or_precipitant,polymer,484,0,0.0,1
+ribonuclease,sodium,ion,cation,415,18,0.043373493975903614,2
+ribonuclease,ammonium,ion,cation,344,0,0.0,3
+ribonuclease,sulfate,ion,anion,284,171,0.602112676056338,4
+ribonuclease,citrate,organic_ion_or_buffer,anion_or_buffer,196,16,0.08163265306122448,5
+ribonuclease,magnesium,ion,cation,177,82,0.4632768361581921,6
+ribonuclease,acetate,ion,anion,175,16,0.09142857142857143,7
+ribonuclease,tris,buffer,buffer,151,0,0.0,8
+ribonuclease,chloride,ion,anion,124,36,0.2903225806451613,9
+ribonuclease,glycerol,solvent_or_cosolvent,polyol,104,64,0.6153846153846154,10
+ribonuclease,calcium,ion,cation,101,42,0.4158415841584158,11
+ribonuclease,mes,buffer,buffer,91,0,0.0,12
+ribonuclease,hepes,buffer,buffer,90,0,0.0,13
+ribonuclease,imidazole,buffer_or_additive,organic_base,65,0,0.0,14
+ribonuclease,mpd,solvent_or_cosolvent,polyol,55,2,0.03636363636363636,15
+ribonuclease,phosphate,ion,anion,51,17,0.3333333333333333,16
+ribonuclease,2-propanol,solvent_or_cosolvent,alcohol,46,12,0.2608695652173913,17
+ribonuclease,potassium,ion,cation,42,9,0.21428571428571427,18
+ribonuclease,cacodylate,buffer,buffer,41,0,0.0,19
+ribonuclease,bis-tris,buffer,buffer,38,0,0.0,20
+ribonuclease,lithium,ion,cation,22,1,0.045454545454545456,21
+ribonuclease,ethylene glycol,solvent_or_cosolvent,polyol,18,8,0.4444444444444444,22
+ribonuclease,formate,ion,anion,14,3,0.21428571428571427,23
+ribonuclease,dtt,reducing_agent,thiol,13,0,0.0,24
+ribonuclease,cesium,ion,cation,12,1,0.08333333333333333,25
+ribonuclease,tartrate,organic_ion_or_buffer,anion_or_buffer,12,0,0.0,26
+ribonuclease,iodide,ion,anion,9,9,1.0,27
+ribonuclease,manganese,ion,cation,6,6,1.0,28
+ribonuclease,zinc,ion,cation,6,5,0.8333333333333334,29
+ribonuclease,ethanol,solvent_or_cosolvent,alcohol,6,0,0.0,30
+ribonuclease,dioxane,solvent_or_cosolvent,ether,5,0,0.0,31
+ribonuclease,nitrate,ion,anion,4,0,0.0,32
+ribonuclease,cadmium,ion,cation,3,2,0.6666666666666666,33
+ribonuclease,methanol,solvent_or_cosolvent,alcohol,3,0,0.0,34
+ribonuclease,copper,ion,cation,2,1,0.5,35
+trypsin,sulfate,ion,anion,315,192,0.6095238095238096,1
+trypsin,ammonium,ion,cation,303,2,0.006600660066006601,2
+trypsin,peg,polymeric_solvent_or_precipitant,polymer,299,0,0.0,3
+trypsin,tris,buffer,buffer,196,0,0.0,4
+trypsin,hepes,buffer,buffer,153,0,0.0,5
+trypsin,calcium,ion,cation,126,122,0.9682539682539683,6
+trypsin,sodium,ion,cation,126,12,0.09523809523809523,7
+trypsin,magnesium,ion,cation,89,21,0.23595505617977527,8
+trypsin,lithium,ion,cation,82,1,0.012195121951219513,9
+trypsin,acetate,ion,anion,50,6,0.12,10
+trypsin,imidazole,buffer_or_additive,organic_base,50,0,0.0,11
+trypsin,chloride,ion,anion,47,4,0.0851063829787234,12
+trypsin,citrate,organic_ion_or_buffer,anion_or_buffer,46,4,0.08695652173913043,13
+trypsin,phosphate,ion,anion,40,0,0.0,14
+trypsin,mes,buffer,buffer,38,0,0.0,15
+trypsin,potassium,ion,cation,33,1,0.030303030303030304,16
+trypsin,cacodylate,buffer,buffer,24,0,0.0,17
+trypsin,bis-tris,buffer,buffer,23,0,0.0,18
+trypsin,glycerol,solvent_or_cosolvent,polyol,20,15,0.75,19
+trypsin,ethylene glycol,solvent_or_cosolvent,polyol,16,7,0.4375,20
+trypsin,mpd,solvent_or_cosolvent,polyol,12,4,0.3333333333333333,21
+trypsin,formate,ion,anion,6,2,0.3333333333333333,22
+trypsin,2-propanol,solvent_or_cosolvent,alcohol,5,0,0.0,23
+trypsin,zinc,ion,cation,4,3,0.75,24
+trypsin,dtt,reducing_agent,thiol,2,0,0.0,25
+trypsin,tartrate,organic_ion_or_buffer,anion_or_buffer,2,0,0.0,26
+trypsin,iodide,ion,anion,1,0,0.0,27
+trypsin,malate,organic_ion_or_buffer,anion_or_buffer,1,0,0.0,28
