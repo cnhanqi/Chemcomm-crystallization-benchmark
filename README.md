@@ -1,4 +1,4 @@
-# Wallis ChemComm Data and Code Release
+﻿# Wallis ChemComm Data and Code Release
 
 This repository contains the curated data tables, figure source data, machine-learning outputs and Python scripts supporting the ChemComm manuscript on a chemical species-resolved benchmark for protein crystallization conditions and structure-observed non-polymer species.
 
@@ -65,9 +65,10 @@ The scripts were developed with Python 3.11. Paths inside some scripts may need 
 
 Use the final DOI and GitHub URLs after release:
 
-The data supporting this article are derived from publicly available crystallographic records in the Protein Data Bank (PDB; https://www.rcsb.org/) and the associated PDBx/mmCIF metadata. The PDB accession codes used in the analysis are listed in the supporting data tables. Processed benchmark tables, figure source data, machine-learning input tables, model-evaluation outputs and the Python scripts used to generate the analyses and figures are available at [repository name] at [full GitHub URL], with the archived version of record available at [full DOI URL]. The version of the code used for this study is [release tag]. Supporting data for the figures and tables are also included in the Supplementary Information. No new crystallographic structures were determined in this study.
+The data supporting this article are derived from publicly available crystallographic records in the Protein Data Bank (PDB; https://www.rcsb.org/) and the associated PDBx/mmCIF metadata. The PDB accession codes used in the analysis are listed in the supporting data tables. Processed benchmark tables, figure source data, machine-learning input tables, model-evaluation outputs and the Python scripts used to generate the analyses and figures are available at Chemcomm-crystallization-benchmark at https://github.com/cnhanqi/Chemcomm-crystallization-benchmark, with the archived version of record available at [full DOI URL]. The version of the code used for this study is [release tag]. Supporting data for the figures and tables are also included in the Supplementary Information. No new crystallographic structures were determined in this study.
 
 ## Suggested Citation
 
 After archiving the GitHub release with Zenodo, cite the archive DOI in the manuscript data availability statement and, if required by the journal, in the reference list.
+
 

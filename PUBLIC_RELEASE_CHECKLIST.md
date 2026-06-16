@@ -1,9 +1,9 @@
-# Public Release Checklist
+﻿# Public Release Checklist
 
 Before uploading to GitHub:
 
 - Confirm the author list in `CITATION.cff`.
-- Replace `https://github.com/USERNAME/REPOSITORY` with the real GitHub URL.
+- Confirm the GitHub URL: https://github.com/cnhanqi/Chemcomm-crystallization-benchmark.
 - Replace `10.xxxx/zenodo.xxxxxxx` after Zenodo creates the DOI.
 - Choose final licenses and replace `LICENSE_NOTES.md` with real license files if needed.
 - Check that no Word drafts, reviewer comments, local agent files, private notes or temporary files are present.
@@ -19,4 +19,5 @@ Suggested GitHub and Zenodo flow:
 6. Zenodo will archive that release and mint a DOI.
 7. Update `README.md`, `DATA_AVAILABILITY.md` and `CITATION.cff` with the final GitHub URL and DOI.
 8. Create a small follow-up GitHub release if the DOI placeholders were updated after the first archive.
+
 
