@@ -8,7 +8,7 @@ Included materials:
 - figure-summary source data
 - summary model-comparison outputs
 - final PNG figures
-- representative analysis and figure scripts
+- representative non-plotting analysis scripts
 - variable definitions and environment files
 
 Not included in this reduced archive:
@@ -18,6 +18,7 @@ Not included in this reduced archive:
 - exhaustive species inventory tables
 - out-of-fold prediction tables
 - editable SVG figure files
+- figure-generation code
 - one-command orchestration scripts and historical exploratory outputs
 
 The primary source records remain publicly available from the Protein Data Bank at https://www.rcsb.org/.
