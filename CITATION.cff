@@ -6,10 +6,10 @@ authors:
     given-names: "Hank"
   - family-names: "Greaves"
     given-names: "Tamar"
-version: "v1.0.0"
+version: "v1.0.2"
 date-released: "2026-06-16"
 repository-code: "https://github.com/cnhanqi/Chemcomm-crystallization-benchmark"
-doi: "10.xxxx/zenodo.xxxxxxx"
+doi: "10.5281/zenodo.20711461"
 license: "MIT"
 abstract: "Curated data tables, figure source data, machine-learning outputs and Python scripts supporting a chemical species-resolved protein crystallization benchmark derived from public Protein Data Bank records."
 
